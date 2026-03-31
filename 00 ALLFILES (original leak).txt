@@ -1,0 +1,4081 @@
+C:\Users\caurie\Desktop\src>dir
+ Le volume dans le lecteur C s’appelle Windows
+ Le numéro de série du volume est D0E1-25FC
+
+ Répertoire de C:\Users\caurie\Desktop\src
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:07    <DIR>          assistant
+31/03/2026  23:07    <DIR>          bootstrap
+31/03/2026  23:07    <DIR>          bridge
+31/03/2026  23:07    <DIR>          buddy
+31/03/2026  23:07    <DIR>          cli
+31/03/2026  23:08    <DIR>          commands
+31/03/2026  01:19            25 185 commands.ts
+31/03/2026  23:08    <DIR>          components
+31/03/2026  23:07    <DIR>          constants
+31/03/2026  23:07    <DIR>          context
+31/03/2026  01:19             6 446 context.ts
+31/03/2026  23:07    <DIR>          coordinator
+31/03/2026  01:19            10 706 cost-tracker.ts
+31/03/2026  01:19               617 costHook.ts
+31/03/2026  01:19            22 948 dialogLaunchers.tsx
+31/03/2026  23:08    <DIR>          entrypoints
+31/03/2026  01:19            14 081 history.ts
+31/03/2026  23:08    <DIR>          hooks
+31/03/2026  23:07    <DIR>          ink
+31/03/2026  01:19             3 887 ink.ts
+31/03/2026  01:19            57 424 interactiveHelpers.tsx
+31/03/2026  23:07    <DIR>          keybindings
+31/03/2026  01:19           803 924 main.tsx
+31/03/2026  23:07    <DIR>          memdir
+31/03/2026  23:07    <DIR>          migrations
+31/03/2026  23:08    <DIR>          moreright
+31/03/2026  23:08    <DIR>          native-ts
+31/03/2026  23:08    <DIR>          outputStyles
+31/03/2026  23:07    <DIR>          plugins
+31/03/2026  01:19             2 337 projectOnboardingState.ts
+31/03/2026  23:08    <DIR>          query
+31/03/2026  01:19            68 683 query.ts
+31/03/2026  01:19            46 630 QueryEngine.ts
+31/03/2026  23:08    <DIR>          remote
+31/03/2026  01:19             3 517 replLauncher.tsx
+31/03/2026  23:07    <DIR>          schemas
+31/03/2026  23:07    <DIR>          screens
+31/03/2026  23:07    <DIR>          server
+31/03/2026  23:08    <DIR>          services
+31/03/2026  01:19            20 646 setup.ts
+31/03/2026  23:08    <DIR>          skills
+31/03/2026  23:07    <DIR>          state
+31/03/2026  01:19             3 152 Task.ts
+31/03/2026  23:07    <DIR>          tasks
+31/03/2026  01:19             1 355 tasks.ts
+31/03/2026  01:19            29 516 Tool.ts
+31/03/2026  23:07    <DIR>          tools
+31/03/2026  01:19            17 294 tools.ts
+31/03/2026  23:07    <DIR>          types
+31/03/2026  23:07    <DIR>          upstreamproxy
+31/03/2026  23:07    <DIR>          utils
+31/03/2026  23:07    <DIR>          vim
+31/03/2026  23:08    <DIR>          voice
+              18 fichier(s)        1 138 348 octets
+              37 Rép(s)  48 779 038 720 octets libres
+
+C:\Users\caurie\Desktop\src>dir /s
+ Le volume dans le lecteur C s’appelle Windows
+ Le numéro de série du volume est D0E1-25FC
+
+ Répertoire de C:\Users\caurie\Desktop\src
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:07    <DIR>          assistant
+31/03/2026  23:07    <DIR>          bootstrap
+31/03/2026  23:07    <DIR>          bridge
+31/03/2026  23:07    <DIR>          buddy
+31/03/2026  23:07    <DIR>          cli
+31/03/2026  23:08    <DIR>          commands
+31/03/2026  01:19            25 185 commands.ts
+31/03/2026  23:08    <DIR>          components
+31/03/2026  23:07    <DIR>          constants
+31/03/2026  23:07    <DIR>          context
+31/03/2026  01:19             6 446 context.ts
+31/03/2026  23:07    <DIR>          coordinator
+31/03/2026  01:19            10 706 cost-tracker.ts
+31/03/2026  01:19               617 costHook.ts
+31/03/2026  01:19            22 948 dialogLaunchers.tsx
+31/03/2026  23:08    <DIR>          entrypoints
+31/03/2026  01:19            14 081 history.ts
+31/03/2026  23:08    <DIR>          hooks
+31/03/2026  23:07    <DIR>          ink
+31/03/2026  01:19             3 887 ink.ts
+31/03/2026  01:19            57 424 interactiveHelpers.tsx
+31/03/2026  23:07    <DIR>          keybindings
+31/03/2026  01:19           803 924 main.tsx
+31/03/2026  23:07    <DIR>          memdir
+31/03/2026  23:07    <DIR>          migrations
+31/03/2026  23:08    <DIR>          moreright
+31/03/2026  23:08    <DIR>          native-ts
+31/03/2026  23:08    <DIR>          outputStyles
+31/03/2026  23:07    <DIR>          plugins
+31/03/2026  01:19             2 337 projectOnboardingState.ts
+31/03/2026  23:08    <DIR>          query
+31/03/2026  01:19            68 683 query.ts
+31/03/2026  01:19            46 630 QueryEngine.ts
+31/03/2026  23:08    <DIR>          remote
+31/03/2026  01:19             3 517 replLauncher.tsx
+31/03/2026  23:07    <DIR>          schemas
+31/03/2026  23:07    <DIR>          screens
+31/03/2026  23:07    <DIR>          server
+31/03/2026  23:08    <DIR>          services
+31/03/2026  01:19            20 646 setup.ts
+31/03/2026  23:08    <DIR>          skills
+31/03/2026  23:07    <DIR>          state
+31/03/2026  01:19             3 152 Task.ts
+31/03/2026  23:07    <DIR>          tasks
+31/03/2026  01:19             1 355 tasks.ts
+31/03/2026  01:19            29 516 Tool.ts
+31/03/2026  23:07    <DIR>          tools
+31/03/2026  01:19            17 294 tools.ts
+31/03/2026  23:07    <DIR>          types
+31/03/2026  23:07    <DIR>          upstreamproxy
+31/03/2026  23:07    <DIR>          utils
+31/03/2026  23:07    <DIR>          vim
+31/03/2026  23:08    <DIR>          voice
+              18 fichier(s)        1 138 348 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\assistant
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 503 sessionHistory.ts
+               1 fichier(s)            2 503 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\bootstrap
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            56 109 state.ts
+               1 fichier(s)           56 109 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\bridge
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            18 066 bridgeApi.ts
+31/03/2026  01:19             1 695 bridgeConfig.ts
+31/03/2026  01:19             4 926 bridgeDebug.ts
+31/03/2026  01:19             8 442 bridgeEnabled.ts
+31/03/2026  01:19           115 571 bridgeMain.ts
+31/03/2026  01:19            15 703 bridgeMessaging.ts
+31/03/2026  01:19             1 411 bridgePermissionCallbacks.ts
+31/03/2026  01:19             7 611 bridgePointer.ts
+31/03/2026  01:19             5 143 bridgeStatusUtil.ts
+31/03/2026  01:19            16 780 bridgeUI.ts
+31/03/2026  01:19             1 841 capacityWake.ts
+31/03/2026  01:19             4 840 codeSessionApi.ts
+31/03/2026  01:19            12 157 createSession.ts
+31/03/2026  01:19             4 240 debugUtils.ts
+31/03/2026  01:19             7 250 envLessBridgeConfig.ts
+31/03/2026  01:19             1 981 flushGate.ts
+31/03/2026  01:19             6 267 inboundAttachments.ts
+31/03/2026  01:19             2 727 inboundMessages.ts
+31/03/2026  01:19            23 849 initReplBridge.ts
+31/03/2026  01:19             9 444 jwtUtils.ts
+31/03/2026  01:19             4 562 pollConfig.ts
+31/03/2026  01:19             4 018 pollConfigDefaults.ts
+31/03/2026  01:19            39 434 remoteBridgeCore.ts
+31/03/2026  01:19           100 537 replBridge.ts
+31/03/2026  01:19             1 473 replBridgeHandle.ts
+31/03/2026  01:19            15 523 replBridgeTransport.ts
+31/03/2026  01:19             2 536 sessionIdCompat.ts
+31/03/2026  01:19            18 020 sessionRunner.ts
+31/03/2026  01:19             7 764 trustedDevice.ts
+31/03/2026  01:19            10 161 types.ts
+31/03/2026  01:19             4 672 workSecret.ts
+              31 fichier(s)          478 644 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\buddy
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 715 companion.ts
+31/03/2026  01:19            45 922 CompanionSprite.tsx
+31/03/2026  01:19             1 451 prompt.ts
+31/03/2026  01:19             9 797 sprites.ts
+31/03/2026  01:19             3 805 types.ts
+31/03/2026  01:19             9 959 useBuddyNotification.tsx
+               6 fichier(s)           74 649 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\cli
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 310 exit.ts
+31/03/2026  23:07    <DIR>          handlers
+31/03/2026  01:19             1 408 ndjsonSafeStringify.ts
+31/03/2026  01:19           212 735 print.ts
+31/03/2026  01:19             9 946 remoteIO.ts
+31/03/2026  01:19            28 720 structuredIO.ts
+31/03/2026  23:07    <DIR>          transports
+31/03/2026  01:19            14 487 update.ts
+               6 fichier(s)          268 606 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\cli\handlers
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 089 agents.ts
+31/03/2026  01:19            10 756 auth.ts
+31/03/2026  01:19             5 742 autoMode.ts
+31/03/2026  01:19            56 167 mcp.tsx
+31/03/2026  01:19            31 073 plugins.ts
+31/03/2026  01:19            14 501 util.tsx
+               6 fichier(s)          120 328 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\cli\transports
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            33 775 ccrClient.ts
+31/03/2026  01:19            10 883 HybridTransport.ts
+31/03/2026  01:19             9 089 SerialBatchEventUploader.ts
+31/03/2026  01:19            23 758 SSETransport.ts
+31/03/2026  01:19             1 767 transportUtils.ts
+31/03/2026  01:19            28 195 WebSocketTransport.ts
+31/03/2026  01:19             3 879 WorkerStateUploader.ts
+               7 fichier(s)          111 346 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          add-dir
+31/03/2026  01:19             3 182 advisor.ts
+31/03/2026  23:08    <DIR>          agents
+31/03/2026  23:08    <DIR>          ant-trace
+31/03/2026  23:08    <DIR>          autofix-pr
+31/03/2026  23:08    <DIR>          backfill-sessions
+31/03/2026  23:08    <DIR>          branch
+31/03/2026  23:08    <DIR>          break-cache
+31/03/2026  23:08    <DIR>          bridge
+31/03/2026  01:19             6 703 bridge-kick.ts
+31/03/2026  01:19             5 173 brief.ts
+31/03/2026  23:08    <DIR>          btw
+31/03/2026  23:08    <DIR>          bughunter
+31/03/2026  23:08    <DIR>          chrome
+31/03/2026  23:08    <DIR>          clear
+31/03/2026  23:08    <DIR>          color
+31/03/2026  01:19             6 309 commit-push-pr.ts
+31/03/2026  01:19             3 492 commit.ts
+31/03/2026  23:08    <DIR>          compact
+31/03/2026  23:08    <DIR>          config
+31/03/2026  23:08    <DIR>          context
+31/03/2026  23:08    <DIR>          copy
+31/03/2026  23:08    <DIR>          cost
+31/03/2026  01:19             1 789 createMovedToPluginCommand.ts
+31/03/2026  23:08    <DIR>          ctx_viz
+31/03/2026  23:08    <DIR>          debug-tool-call
+31/03/2026  23:08    <DIR>          desktop
+31/03/2026  23:08    <DIR>          diff
+31/03/2026  23:08    <DIR>          doctor
+31/03/2026  23:08    <DIR>          effort
+31/03/2026  23:08    <DIR>          env
+31/03/2026  23:08    <DIR>          exit
+31/03/2026  23:08    <DIR>          export
+31/03/2026  23:08    <DIR>          extra-usage
+31/03/2026  23:08    <DIR>          fast
+31/03/2026  23:08    <DIR>          feedback
+31/03/2026  23:08    <DIR>          files
+31/03/2026  23:08    <DIR>          good-claude
+31/03/2026  23:08    <DIR>          heapdump
+31/03/2026  23:08    <DIR>          help
+31/03/2026  23:08    <DIR>          hooks
+31/03/2026  23:08    <DIR>          ide
+31/03/2026  01:19            10 315 init-verifiers.ts
+31/03/2026  01:19            20 961 init.ts
+31/03/2026  01:19           115 949 insights.ts
+31/03/2026  23:08    <DIR>          install-github-app
+31/03/2026  23:08    <DIR>          install-slack-app
+31/03/2026  01:19            39 068 install.tsx
+31/03/2026  23:08    <DIR>          issue
+31/03/2026  23:08    <DIR>          keybindings
+31/03/2026  23:08    <DIR>          login
+31/03/2026  23:08    <DIR>          logout
+31/03/2026  23:08    <DIR>          mcp
+31/03/2026  23:08    <DIR>          memory
+31/03/2026  23:08    <DIR>          mobile
+31/03/2026  23:08    <DIR>          mock-limits
+31/03/2026  23:08    <DIR>          model
+31/03/2026  23:08    <DIR>          oauth-refresh
+31/03/2026  23:08    <DIR>          onboarding
+31/03/2026  23:08    <DIR>          output-style
+31/03/2026  23:08    <DIR>          passes
+31/03/2026  23:08    <DIR>          perf-issue
+31/03/2026  23:08    <DIR>          permissions
+31/03/2026  23:08    <DIR>          plan
+31/03/2026  23:08    <DIR>          plugin
+31/03/2026  23:08    <DIR>          privacy-settings
+31/03/2026  23:08    <DIR>          pr_comments
+31/03/2026  23:08    <DIR>          rate-limit-options
+31/03/2026  23:08    <DIR>          release-notes
+31/03/2026  23:08    <DIR>          reload-plugins
+31/03/2026  23:08    <DIR>          remote-env
+31/03/2026  23:08    <DIR>          remote-setup
+31/03/2026  23:08    <DIR>          rename
+31/03/2026  23:08    <DIR>          reset-limits
+31/03/2026  23:08    <DIR>          resume
+31/03/2026  23:08    <DIR>          review
+31/03/2026  01:19             2 188 review.ts
+31/03/2026  23:08    <DIR>          rewind
+31/03/2026  23:08    <DIR>          sandbox-toggle
+31/03/2026  01:19            12 531 security-review.ts
+31/03/2026  23:08    <DIR>          session
+31/03/2026  23:08    <DIR>          share
+31/03/2026  23:08    <DIR>          skills
+31/03/2026  23:08    <DIR>          stats
+31/03/2026  23:08    <DIR>          status
+31/03/2026  01:19             3 568 statusline.tsx
+31/03/2026  23:08    <DIR>          stickers
+31/03/2026  23:08    <DIR>          summary
+31/03/2026  23:08    <DIR>          tag
+31/03/2026  23:08    <DIR>          tasks
+31/03/2026  23:08    <DIR>          teleport
+31/03/2026  23:08    <DIR>          terminalSetup
+31/03/2026  23:08    <DIR>          theme
+31/03/2026  23:08    <DIR>          thinkback
+31/03/2026  23:08    <DIR>          thinkback-play
+31/03/2026  01:19            66 629 ultraplan.tsx
+31/03/2026  23:08    <DIR>          upgrade
+31/03/2026  23:08    <DIR>          usage
+31/03/2026  01:19               577 version.ts
+31/03/2026  23:08    <DIR>          vim
+31/03/2026  23:08    <DIR>          voice
+              15 fichier(s)          298 434 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\add-dir
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            18 017 add-dir.tsx
+31/03/2026  01:19               260 index.ts
+31/03/2026  01:19             3 207 validation.ts
+               3 fichier(s)           21 484 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\agents
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 500 agents.tsx
+31/03/2026  01:19               232 index.ts
+               2 fichier(s)            2 732 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\ant-trace
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\autofix-pr
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\backfill-sessions
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\branch
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             9 580 branch.ts
+31/03/2026  01:19               445 index.ts
+               2 fichier(s)           10 025 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\break-cache
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\bridge
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            46 907 bridge.tsx
+31/03/2026  01:19               604 index.ts
+               2 fichier(s)           47 511 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\btw
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            30 250 btw.tsx
+31/03/2026  01:19               314 index.ts
+               2 fichier(s)           30 564 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\bughunter
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\chrome
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            31 974 chrome.tsx
+31/03/2026  01:19               381 index.ts
+               2 fichier(s)           32 355 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\clear
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             6 370 caches.ts
+31/03/2026  01:19               254 clear.ts
+31/03/2026  01:19             9 325 conversation.ts
+31/03/2026  01:19               603 index.ts
+               4 fichier(s)           16 552 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\color
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 712 color.ts
+31/03/2026  01:19               417 index.ts
+               2 fichier(s)            3 129 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\compact
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 079 compact.ts
+31/03/2026  01:19               530 index.ts
+               2 fichier(s)           10 609 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\config
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 408 config.tsx
+31/03/2026  01:19               247 index.ts
+               2 fichier(s)            1 655 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\context
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 781 context-noninteractive.ts
+31/03/2026  01:19             9 099 context.tsx
+31/03/2026  01:19               695 index.ts
+               3 fichier(s)           20 575 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\copy
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            42 252 copy.tsx
+31/03/2026  01:19               393 index.ts
+               2 fichier(s)           42 645 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\cost
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               909 cost.ts
+31/03/2026  01:19               668 index.ts
+               2 fichier(s)            1 577 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\ctx_viz
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\debug-tool-call
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\desktop
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 645 desktop.tsx
+31/03/2026  01:19               601 index.ts
+               2 fichier(s)            2 246 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\diff
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 461 diff.tsx
+31/03/2026  01:19               221 index.ts
+               2 fichier(s)            1 682 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\doctor
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 309 doctor.tsx
+31/03/2026  01:19               381 index.ts
+               2 fichier(s)            1 690 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\effort
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            22 128 effort.tsx
+31/03/2026  01:19               428 index.ts
+               2 fichier(s)           22 556 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\env
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\exit
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             5 272 exit.tsx
+31/03/2026  01:19               250 index.ts
+               2 fichier(s)            5 522 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\export
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            15 104 export.tsx
+31/03/2026  01:19               303 index.ts
+               2 fichier(s)           15 407 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\extra-usage
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             4 000 extra-usage-core.ts
+31/03/2026  01:19               466 extra-usage-noninteractive.ts
+31/03/2026  01:19             3 134 extra-usage.tsx
+31/03/2026  01:19             1 101 index.ts
+               4 fichier(s)            8 701 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\fast
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            33 931 fast.tsx
+31/03/2026  01:19               693 index.ts
+               2 fichier(s)           34 624 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\feedback
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             5 095 feedback.tsx
+31/03/2026  01:19               931 index.ts
+               2 fichier(s)            6 026 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\files
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               688 files.ts
+31/03/2026  01:19               316 index.ts
+               2 fichier(s)            1 004 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\good-claude
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\heapdump
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               398 heapdump.ts
+31/03/2026  01:19               288 index.ts
+               2 fichier(s)              686 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\help
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 432 help.tsx
+31/03/2026  01:19               229 index.ts
+               2 fichier(s)            1 661 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\hooks
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 679 hooks.tsx
+31/03/2026  01:19               260 index.ts
+               2 fichier(s)            2 939 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\ide
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            77 066 ide.tsx
+31/03/2026  01:19               258 index.ts
+               2 fichier(s)           77 324 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\install-github-app
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            23 518 ApiKeyStep.tsx
+31/03/2026  01:19            18 135 CheckExistingSecretStep.tsx
+31/03/2026  01:19             1 248 CheckGitHubStep.tsx
+31/03/2026  01:19            21 279 ChooseRepoStep.tsx
+31/03/2026  01:19             9 266 CreatingStep.tsx
+31/03/2026  01:19             8 602 ErrorStep.tsx
+31/03/2026  01:19             9 833 ExistingWorkflowStep.tsx
+31/03/2026  01:19               471 index.ts
+31/03/2026  01:19            87 155 install-github-app.tsx
+31/03/2026  01:19             9 601 InstallAppStep.tsx
+31/03/2026  01:19            39 935 OAuthFlowStep.tsx
+31/03/2026  01:19            10 168 setupGitHubActions.ts
+31/03/2026  01:19            10 170 SuccessStep.tsx
+31/03/2026  01:19             9 132 WarningsStep.tsx
+              14 fichier(s)          258 513 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\install-slack-app
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               333 index.ts
+31/03/2026  01:19               877 install-slack-app.ts
+               2 fichier(s)            1 210 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\issue
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\keybindings
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               448 index.ts
+31/03/2026  01:19             1 645 keybindings.ts
+               2 fichier(s)            2 093 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\login
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               489 index.ts
+31/03/2026  01:19            16 109 login.tsx
+               2 fichier(s)           16 598 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\logout
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               341 index.ts
+31/03/2026  01:19            10 732 logout.tsx
+               2 fichier(s)           11 073 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\mcp
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             9 848 addCommand.ts
+31/03/2026  01:19               280 index.ts
+31/03/2026  01:19            12 126 mcp.tsx
+31/03/2026  01:19            10 290 xaaIdpCommand.ts
+               4 fichier(s)           32 544 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\memory
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               220 index.ts
+31/03/2026  01:19            12 608 memory.tsx
+               2 fichier(s)           12 828 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\mobile
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               282 index.ts
+31/03/2026  01:19            21 797 mobile.tsx
+               2 fichier(s)           22 079 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\mock-limits
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\model
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               559 index.ts
+31/03/2026  01:19            37 569 model.tsx
+               2 fichier(s)           38 128 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\oauth-refresh
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\onboarding
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\output-style
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               291 index.ts
+31/03/2026  01:19             1 343 output-style.tsx
+               2 fichier(s)            1 634 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\passes
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               632 index.ts
+31/03/2026  01:19             3 783 passes.tsx
+               2 fichier(s)            4 415 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\perf-issue
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\permissions
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               296 index.ts
+31/03/2026  01:19             2 223 permissions.tsx
+               2 fichier(s)            2 519 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\plan
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               286 index.ts
+31/03/2026  01:19            13 904 plan.tsx
+               2 fichier(s)           14 190 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\plugin
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            21 821 AddMarketplace.tsx
+31/03/2026  01:19           119 562 BrowseMarketplace.tsx
+31/03/2026  01:19           106 666 DiscoverPlugins.tsx
+31/03/2026  01:19             1 337 index.tsx
+31/03/2026  01:19           118 912 ManageMarketplaces.tsx
+31/03/2026  01:19           321 775 ManagePlugins.tsx
+31/03/2026  01:19             2 818 parseArgs.ts
+31/03/2026  01:19             1 590 plugin.tsx
+31/03/2026  01:19            12 424 pluginDetailsHelpers.tsx
+31/03/2026  01:19            23 316 PluginErrors.tsx
+31/03/2026  01:19            34 537 PluginOptionsDialog.tsx
+31/03/2026  01:19            18 702 PluginOptionsFlow.tsx
+31/03/2026  01:19           128 668 PluginSettings.tsx
+31/03/2026  01:19             3 919 PluginTrustWarning.tsx
+31/03/2026  01:19            44 441 UnifiedInstalledCell.tsx
+31/03/2026  01:19             4 990 usePagination.ts
+31/03/2026  01:19            12 369 ValidatePlugin.tsx
+              17 fichier(s)          977 847 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\privacy-settings
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               399 index.ts
+31/03/2026  01:19            10 043 privacy-settings.tsx
+               2 fichier(s)           10 442 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\pr_comments
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 848 index.ts
+               1 fichier(s)            1 848 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\rate-limit-options
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               511 index.ts
+31/03/2026  01:19            23 749 rate-limit-options.tsx
+               2 fichier(s)           24 260 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\release-notes
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               268 index.ts
+31/03/2026  01:19             1 524 release-notes.ts
+               2 fichier(s)            1 792 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\reload-plugins
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               653 index.ts
+31/03/2026  01:19             2 598 reload-plugins.ts
+               2 fichier(s)            3 251 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\remote-env
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               577 index.ts
+31/03/2026  01:19             1 454 remote-env.tsx
+               2 fichier(s)            2 031 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\remote-setup
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             5 519 api.ts
+31/03/2026  01:19               693 index.ts
+31/03/2026  01:19            21 786 remote-setup.tsx
+               3 fichier(s)           27 998 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\rename
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 297 generateSessionName.ts
+31/03/2026  01:19               281 index.ts
+31/03/2026  01:19             2 759 rename.ts
+               3 fichier(s)            5 337 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\reset-limits
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               172 index.js
+               1 fichier(s)              172 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\resume
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               303 index.ts
+31/03/2026  01:19            37 026 resume.tsx
+               2 fichier(s)           37 329 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\review
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            11 926 reviewRemote.ts
+31/03/2026  01:19             9 855 ultrareviewCommand.tsx
+31/03/2026  01:19               526 ultrareviewEnabled.ts
+31/03/2026  01:19             9 655 UltrareviewOverageDialog.tsx
+               4 fichier(s)           31 962 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\rewind
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               337 index.ts
+31/03/2026  01:19               376 rewind.ts
+               2 fichier(s)              713 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\sandbox-toggle
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 520 index.ts
+31/03/2026  01:19            13 157 sandbox-toggle.tsx
+               2 fichier(s)           14 677 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\session
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               418 index.ts
+31/03/2026  01:19            13 009 session.tsx
+               2 fichier(s)           13 427 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\share
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\skills
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               226 index.ts
+31/03/2026  01:19             1 888 skills.tsx
+               2 fichier(s)            2 114 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\stats
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               252 index.ts
+31/03/2026  01:19             1 141 stats.tsx
+               2 fichier(s)            1 393 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\status
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               322 index.ts
+31/03/2026  01:19             1 855 status.tsx
+               2 fichier(s)            2 177 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\stickers
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               268 index.ts
+31/03/2026  01:19               476 stickers.ts
+               2 fichier(s)              744 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\summary
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\tag
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               321 index.ts
+31/03/2026  01:19            20 999 tag.tsx
+               2 fichier(s)           21 320 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\tasks
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               256 index.ts
+31/03/2026  01:19             1 901 tasks.tsx
+               2 fichier(s)            2 157 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\teleport
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19                73 index.js
+               1 fichier(s)               73 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\terminalSetup
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               725 index.ts
+31/03/2026  01:19            77 528 terminalSetup.tsx
+               2 fichier(s)           78 253 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\theme
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               217 index.ts
+31/03/2026  01:19             5 180 theme.tsx
+               2 fichier(s)            5 397 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\thinkback
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               442 index.ts
+31/03/2026  01:19            61 993 thinkback.tsx
+               2 fichier(s)           62 435 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\thinkback-play
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               608 index.ts
+31/03/2026  01:19             1 430 thinkback-play.ts
+               2 fichier(s)            2 038 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\upgrade
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               523 index.ts
+31/03/2026  01:19             7 438 upgrade.tsx
+               2 fichier(s)            7 961 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\usage
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               233 index.ts
+31/03/2026  01:19             1 403 usage.tsx
+               2 fichier(s)            1 636 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\vim
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               273 index.ts
+31/03/2026  01:19             1 139 vim.ts
+               2 fichier(s)            1 412 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\commands\voice
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               482 index.ts
+31/03/2026  01:19             5 264 voice.ts
+               2 fichier(s)            5 746 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            14 238 AgentProgressLine.tsx
+31/03/2026  23:08    <DIR>          agents
+31/03/2026  01:19             5 204 App.tsx
+31/03/2026  01:19            10 621 ApproveApiKey.tsx
+31/03/2026  01:19            13 302 AutoModeOptInDialog.tsx
+31/03/2026  01:19            30 788 AutoUpdater.tsx
+31/03/2026  01:19            11 972 AutoUpdaterWrapper.tsx
+31/03/2026  01:19             9 707 AwsAuthStatusBox.tsx
+31/03/2026  01:19            19 313 BaseTextInput.tsx
+31/03/2026  01:19             5 675 BashModeProgress.tsx
+31/03/2026  01:19            34 418 BridgeDialog.tsx
+31/03/2026  01:19             9 136 BypassPermissionsModeDialog.tsx
+31/03/2026  01:19             8 253 ChannelDowngradeDialog.tsx
+31/03/2026  23:08    <DIR>          ClaudeCodeHint
+31/03/2026  01:19            12 151 ClaudeInChromeOnboarding.tsx
+31/03/2026  01:19            13 532 ClaudeMdExternalIncludesDialog.tsx
+31/03/2026  01:19             7 495 ClickableImageRef.tsx
+31/03/2026  01:19            14 437 CompactSummary.tsx
+31/03/2026  01:19             5 436 ConfigurableShortcutHint.tsx
+31/03/2026  01:19            79 968 ConsoleOAuthFlow.tsx
+31/03/2026  01:19             5 952 ContextSuggestions.tsx
+31/03/2026  01:19            76 073 ContextVisualization.tsx
+31/03/2026  01:19            36 038 CoordinatorAgentStatus.tsx
+31/03/2026  01:19             4 336 CostThresholdDialog.tsx
+31/03/2026  01:19             6 062 CtrlOToExpand.tsx
+31/03/2026  23:08    <DIR>          CustomSelect
+31/03/2026  23:08    <DIR>          design-system
+31/03/2026  01:19            19 335 DesktopHandoff.tsx
+31/03/2026  23:08    <DIR>          DesktopUpsell
+31/03/2026  01:19             5 040 DevBar.tsx
+31/03/2026  01:19             9 113 DevChannelsDialog.tsx
+31/03/2026  01:19            13 220 DiagnosticsDisplay.tsx
+31/03/2026  23:08    <DIR>          diff
+31/03/2026  01:19            24 778 EffortCallout.tsx
+31/03/2026  01:19             1 128 EffortIndicator.ts
+31/03/2026  01:19             4 364 ExitFlow.tsx
+31/03/2026  01:19            19 333 ExportDialog.tsx
+31/03/2026  01:19            12 623 FallbackToolUseErrorMessage.tsx
+31/03/2026  01:19             1 754 FallbackToolUseRejectedMessage.tsx
+31/03/2026  01:19             4 627 FastIcon.tsx
+31/03/2026  01:19            87 696 Feedback.tsx
+31/03/2026  23:08    <DIR>          FeedbackSurvey
+31/03/2026  01:19            21 900 FileEditToolDiff.tsx
+31/03/2026  01:19            12 097 FileEditToolUpdatedMessage.tsx
+31/03/2026  01:19            15 126 FileEditToolUseRejectedMessage.tsx
+31/03/2026  01:19             3 242 FilePathLink.tsx
+31/03/2026  01:19            84 913 FullscreenLayout.tsx
+31/03/2026  01:19            43 997 GlobalSearchDialog.tsx
+31/03/2026  23:08    <DIR>          grove
+31/03/2026  23:08    <DIR>          HelpV2
+31/03/2026  23:08    <DIR>          HighlightedCode
+31/03/2026  01:19            17 579 HighlightedCode.tsx
+31/03/2026  01:19            19 923 HistorySearchDialog.tsx
+31/03/2026  23:08    <DIR>          hooks
+31/03/2026  01:19            13 271 IdeAutoConnectDialog.tsx
+31/03/2026  01:19            16 399 IdeOnboardingDialog.tsx
+31/03/2026  01:19             6 430 IdeStatusIndicator.tsx
+31/03/2026  01:19             9 861 IdleReturnDialog.tsx
+31/03/2026  01:19             1 962 InterruptedByUser.tsx
+31/03/2026  01:19            15 252 InvalidConfigDialog.tsx
+31/03/2026  01:19             7 063 InvalidSettingsDialog.tsx
+31/03/2026  01:19             9 534 KeybindingWarnings.tsx
+31/03/2026  01:19             8 664 LanguagePicker.tsx
+31/03/2026  23:08    <DIR>          LogoV2
+31/03/2026  01:19           200 487 LogSelector.tsx
+31/03/2026  23:08    <DIR>          LspRecommendation
+31/03/2026  23:08    <DIR>          ManagedSettingsSecurityDialog
+31/03/2026  01:19            28 160 Markdown.tsx
+31/03/2026  01:19            47 567 MarkdownTable.tsx
+31/03/2026  23:08    <DIR>          mcp
+31/03/2026  01:19            11 563 MCPServerApprovalDialog.tsx
+31/03/2026  01:19            21 016 MCPServerDesktopImportDialog.tsx
+31/03/2026  01:19             1 829 MCPServerDialogCopy.tsx
+31/03/2026  01:19            16 029 MCPServerMultiselectDialog.tsx
+31/03/2026  23:08    <DIR>          memory
+31/03/2026  01:19             4 377 MemoryUsageIndicator.tsx
+31/03/2026  01:19            79 113 Message.tsx
+31/03/2026  01:19            54 948 messageActions.tsx
+31/03/2026  01:19             4 110 MessageModel.tsx
+31/03/2026  01:19             6 933 MessageResponse.tsx
+31/03/2026  01:19            48 342 MessageRow.tsx
+31/03/2026  23:08    <DIR>          messages
+31/03/2026  01:19           147 457 Messages.tsx
+31/03/2026  01:19           115 618 MessageSelector.tsx
+31/03/2026  01:19             5 448 MessageTimestamp.tsx
+31/03/2026  01:19            54 246 ModelPicker.tsx
+31/03/2026  01:19            26 514 NativeAutoUpdater.tsx
+31/03/2026  01:19             8 447 NotebookEditToolUseRejectedMessage.tsx
+31/03/2026  01:19             5 664 OffscreenFreeze.tsx
+31/03/2026  01:19            31 528 Onboarding.tsx
+31/03/2026  01:19            13 233 OutputStylePicker.tsx
+31/03/2026  01:19            13 907 PackageManagerAutoUpdater.tsx
+31/03/2026  23:08    <DIR>          Passes
+31/03/2026  23:08    <DIR>          permissions
+31/03/2026  01:19             7 703 PrBadge.tsx
+31/03/2026  01:19             1 526 PressEnterToContinue.tsx
+31/03/2026  23:08    <DIR>          PromptInput
+31/03/2026  01:19            28 556 QuickOpenDialog.tsx
+31/03/2026  01:19             9 978 RemoteCallout.tsx
+31/03/2026  01:19            33 519 RemoteEnvironmentDialog.tsx
+31/03/2026  01:19            38 550 ResumeTask.tsx
+31/03/2026  23:08    <DIR>          sandbox
+31/03/2026  01:19            11 401 SandboxViolationExpandedView.tsx
+31/03/2026  01:19           149 202 ScrollKeybindingHandler.tsx
+31/03/2026  01:19             9 421 SearchBox.tsx
+31/03/2026  01:19               487 SentryErrorBoundary.ts
+31/03/2026  01:19            13 154 SessionBackgroundHint.tsx
+31/03/2026  01:19            19 227 SessionPreview.tsx
+31/03/2026  23:08    <DIR>          Settings
+31/03/2026  23:08    <DIR>          shell
+31/03/2026  01:19            17 230 ShowInIDEPrompt.tsx
+31/03/2026  01:19            15 172 SkillImprovementSurvey.tsx
+31/03/2026  23:08    <DIR>          skills
+31/03/2026  23:08    <DIR>          Spinner
+31/03/2026  01:19            87 940 Spinner.tsx
+31/03/2026  01:19           152 782 Stats.tsx
+31/03/2026  01:19            49 465 StatusLine.tsx
+31/03/2026  01:19             5 694 StatusNotices.tsx
+31/03/2026  23:08    <DIR>          StructuredDiff
+31/03/2026  01:19            25 007 StructuredDiff.tsx
+31/03/2026  01:19             4 252 StructuredDiffList.tsx
+31/03/2026  01:19            20 853 TagTabs.tsx
+31/03/2026  01:19            50 200 TaskListV2.tsx
+31/03/2026  23:08    <DIR>          tasks
+31/03/2026  01:19             7 415 TeammateViewHeader.tsx
+31/03/2026  23:08    <DIR>          teams
+31/03/2026  01:19            18 824 TeleportError.tsx
+31/03/2026  01:19            16 142 TeleportProgress.tsx
+31/03/2026  01:19            13 046 TeleportRepoMismatchDialog.tsx
+31/03/2026  01:19            15 381 TeleportResumeWrapper.tsx
+31/03/2026  01:19            15 582 TeleportStash.tsx
+31/03/2026  01:19            20 998 TextInput.tsx
+31/03/2026  01:19            35 662 ThemePicker.tsx
+31/03/2026  01:19            18 209 ThinkingToggle.tsx
+31/03/2026  01:19            21 485 TokenWarning.tsx
+31/03/2026  01:19             4 843 ToolUseLoader.tsx
+31/03/2026  23:08    <DIR>          TrustDialog
+31/03/2026  23:08    <DIR>          ui
+31/03/2026  01:19            19 567 ValidationErrorsList.tsx
+31/03/2026  01:19            16 170 VimTextInput.tsx
+31/03/2026  01:19           148 516 VirtualMessageList.tsx
+31/03/2026  23:08    <DIR>          wizard
+31/03/2026  01:19            14 276 WorkflowMultiselectDialog.tsx
+31/03/2026  01:19            35 484 WorktreeExitDialog.tsx
+             113 fichier(s)        3 063 786 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\agents
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            23 566 AgentDetail.tsx
+31/03/2026  01:19            26 437 AgentEditor.tsx
+31/03/2026  01:19             7 487 agentFileUtils.ts
+31/03/2026  01:19             3 067 AgentNavigationFooter.tsx
+31/03/2026  01:19            52 257 AgentsList.tsx
+31/03/2026  01:19            70 586 AgentsMenu.tsx
+31/03/2026  01:19            14 204 ColorPicker.tsx
+31/03/2026  01:19            10 151 generateAgent.ts
+31/03/2026  01:19             6 927 ModelSelector.tsx
+31/03/2026  23:08    <DIR>          new-agent-creation
+31/03/2026  01:19            64 871 ToolSelector.tsx
+31/03/2026  01:19               915 types.ts
+31/03/2026  01:19               528 utils.ts
+31/03/2026  01:19             3 150 validateAgent.ts
+              13 fichier(s)          284 146 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\agents\new-agent-creation
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 427 CreateAgentWizard.tsx
+31/03/2026  23:08    <DIR>          wizard-steps
+               1 fichier(s)           10 427 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\agents\new-agent-creation\wizard-steps
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 430 ColorStep.tsx
+31/03/2026  01:19            35 034 ConfirmStep.tsx
+31/03/2026  01:19            14 450 ConfirmStepWrapper.tsx
+31/03/2026  01:19            14 331 DescriptionStep.tsx
+31/03/2026  01:19            22 113 GenerateStep.tsx
+31/03/2026  01:19             8 280 LocationStep.tsx
+31/03/2026  01:19            14 084 MemoryStep.tsx
+31/03/2026  01:19             8 516 MethodStep.tsx
+31/03/2026  01:19             6 321 ModelStep.tsx
+31/03/2026  01:19            14 831 PromptStep.tsx
+31/03/2026  01:19             7 220 ToolsStep.tsx
+31/03/2026  01:19            12 474 TypeStep.tsx
+              12 fichier(s)          168 084 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\ClaudeCodeHint
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             9 341 PluginHintMenu.tsx
+               1 fichier(s)            9 341 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\CustomSelect
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               118 index.ts
+31/03/2026  01:19             1 189 option-map.ts
+31/03/2026  01:19            58 172 select-input-option.tsx
+31/03/2026  01:19             5 793 select-option.tsx
+31/03/2026  01:19           115 187 select.tsx
+31/03/2026  01:19            29 884 SelectMulti.tsx
+31/03/2026  01:19            10 952 use-multi-select-state.ts
+31/03/2026  01:19             8 770 use-select-input.ts
+31/03/2026  01:19            16 388 use-select-navigation.ts
+31/03/2026  01:19             2 859 use-select-state.ts
+              10 fichier(s)          249 312 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\design-system
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             6 493 Byline.tsx
+31/03/2026  01:19               853 color.ts
+31/03/2026  01:19            14 112 Dialog.tsx
+31/03/2026  01:19            11 094 Divider.tsx
+31/03/2026  01:19            40 862 FuzzyPicker.tsx
+31/03/2026  01:19             6 847 KeyboardShortcutHint.tsx
+31/03/2026  01:19            19 535 ListItem.tsx
+31/03/2026  01:19             6 448 LoadingState.tsx
+31/03/2026  01:19             6 907 Pane.tsx
+31/03/2026  01:19             7 170 ProgressBar.tsx
+31/03/2026  01:19             7 166 Ratchet.tsx
+31/03/2026  01:19             7 568 StatusIcon.tsx
+31/03/2026  01:19            41 447 Tabs.tsx
+31/03/2026  01:19            18 043 ThemedBox.tsx
+31/03/2026  01:19            13 877 ThemedText.tsx
+31/03/2026  01:19            18 852 ThemeProvider.tsx
+              16 fichier(s)          227 274 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\DesktopUpsell
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            15 520 DesktopUpsellStartup.tsx
+               1 fichier(s)           15 520 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\diff
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            22 615 DiffDetailView.tsx
+31/03/2026  01:19            43 407 DiffDialog.tsx
+31/03/2026  01:19            25 342 DiffFileList.tsx
+               3 fichier(s)           91 364 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\FeedbackSurvey
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            19 393 FeedbackSurvey.tsx
+31/03/2026  01:19            10 660 FeedbackSurveyView.tsx
+31/03/2026  01:19             3 251 submitTranscriptShare.ts
+31/03/2026  01:19             9 933 TranscriptSharePrompt.tsx
+31/03/2026  01:19             2 722 useDebouncedDigitInput.ts
+31/03/2026  01:19            48 187 useFeedbackSurvey.tsx
+31/03/2026  01:19            30 418 useMemorySurvey.tsx
+31/03/2026  01:19            24 071 usePostCompactSurvey.tsx
+31/03/2026  01:19            14 800 useSurveyState.tsx
+               9 fichier(s)          163 435 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\grove
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            49 525 Grove.tsx
+               1 fichier(s)           49 525 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\HelpV2
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             9 738 Commands.tsx
+31/03/2026  01:19             3 101 General.tsx
+31/03/2026  01:19            20 986 HelpV2.tsx
+               3 fichier(s)           33 825 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\HighlightedCode
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            16 263 Fallback.tsx
+               1 fichier(s)           16 263 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\hooks
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            54 469 HooksConfigMenu.tsx
+31/03/2026  01:19             7 482 PromptDialog.tsx
+31/03/2026  01:19            13 555 SelectEventMode.tsx
+31/03/2026  01:19            12 907 SelectHookMode.tsx
+31/03/2026  01:19            14 809 SelectMatcherMode.tsx
+31/03/2026  01:19            17 969 ViewHookMode.tsx
+               6 fichier(s)          121 191 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\LogoV2
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             7 562 AnimatedAsterisk.tsx
+31/03/2026  01:19            14 054 AnimatedClawd.tsx
+31/03/2026  01:19            29 503 ChannelsNotice.tsx
+31/03/2026  01:19            18 574 Clawd.tsx
+31/03/2026  01:19            19 395 CondensedLogo.tsx
+31/03/2026  01:19             6 707 EmergencyTip.tsx
+31/03/2026  01:19            13 804 Feed.tsx
+31/03/2026  01:19             5 379 FeedColumn.tsx
+31/03/2026  01:19            12 205 feedConfigs.tsx
+31/03/2026  01:19             9 122 GuestPassesUpsell.tsx
+31/03/2026  01:19            75 183 LogoV2.tsx
+31/03/2026  01:19             5 812 Opus1mMergeNotice.tsx
+31/03/2026  01:19            18 347 OverageCreditUpsell.tsx
+31/03/2026  01:19             7 668 VoiceModeNotice.tsx
+31/03/2026  01:19            57 864 WelcomeV2.tsx
+              15 fichier(s)          301 179 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\LspRecommendation
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 247 LspRecommendationMenu.tsx
+               1 fichier(s)           10 247 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\ManagedSettingsSecurityDialog
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            14 484 ManagedSettingsSecurityDialog.tsx
+31/03/2026  01:19             3 979 utils.ts
+               2 fichier(s)           18 463 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\mcp
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             4 957 CapabilitiesSection.tsx
+31/03/2026  01:19           179 643 ElicitationDialog.tsx
+31/03/2026  01:19               523 index.ts
+31/03/2026  01:19            26 662 MCPAgentServerMenu.tsx
+31/03/2026  01:19            58 231 MCPListPanel.tsx
+31/03/2026  01:19            22 079 McpParsingWarnings.tsx
+31/03/2026  01:19            16 195 MCPReconnect.tsx
+31/03/2026  01:19           102 489 MCPRemoteServerMenu.tsx
+31/03/2026  01:19            40 386 MCPSettings.tsx
+31/03/2026  01:19            28 394 MCPStdioServerMenu.tsx
+31/03/2026  01:19            23 139 MCPToolDetailView.tsx
+31/03/2026  01:19            16 252 MCPToolListView.tsx
+31/03/2026  23:08    <DIR>          utils
+              12 fichier(s)          518 950 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\mcp\utils
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             5 292 reconnectHelpers.tsx
+               1 fichier(s)            5 292 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\memory
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            48 121 MemoryFileSelector.tsx
+31/03/2026  01:19             5 100 MemoryUpdateNotification.tsx
+               2 fichier(s)           53 221 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\messages
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            14 479 AdvisorMessage.tsx
+31/03/2026  01:19             2 603 AssistantRedactedThinkingMessage.tsx
+31/03/2026  01:19            30 427 AssistantTextMessage.tsx
+31/03/2026  01:19             8 082 AssistantThinkingMessage.tsx
+31/03/2026  01:19            45 285 AssistantToolUseMessage.tsx
+31/03/2026  01:19            71 430 AttachmentMessage.tsx
+31/03/2026  01:19            78 078 CollapsedReadSearchContent.tsx
+31/03/2026  01:19             2 275 CompactBoundaryMessage.tsx
+31/03/2026  01:19             8 289 GroupedToolUseContent.tsx
+31/03/2026  01:19            14 902 HighlightedThinkingText.tsx
+31/03/2026  01:19            10 613 HookProgressMessage.tsx
+31/03/2026  01:19             2 257 nullRenderingAttachments.ts
+31/03/2026  01:19            25 339 PlanApprovalMessage.tsx
+31/03/2026  01:19            17 162 RateLimitMessage.tsx
+31/03/2026  01:19            14 493 ShutdownMessage.tsx
+31/03/2026  01:19            12 285 SystemAPIErrorMessage.tsx
+31/03/2026  01:19            79 395 SystemTextMessage.tsx
+31/03/2026  01:19             8 186 TaskAssignmentMessage.tsx
+31/03/2026  01:19            13 711 teamMemCollapsed.tsx
+31/03/2026  01:19               711 teamMemSaved.ts
+31/03/2026  01:19             6 151 UserAgentNotificationMessage.tsx
+31/03/2026  01:19             4 503 UserBashInputMessage.tsx
+31/03/2026  01:19             4 188 UserBashOutputMessage.tsx
+31/03/2026  01:19            11 325 UserChannelMessage.tsx
+31/03/2026  01:19             9 210 UserCommandMessage.tsx
+31/03/2026  01:19             5 897 UserImageMessage.tsx
+31/03/2026  01:19            14 566 UserLocalCommandOutputMessage.tsx
+31/03/2026  01:19             6 516 UserMemoryInputMessage.tsx
+31/03/2026  01:19             3 743 UserPlanMessage.tsx
+31/03/2026  01:19            15 172 UserPromptMessage.tsx
+31/03/2026  01:19            12 363 UserResourceUpdateMessage.tsx
+31/03/2026  01:19            24 126 UserTeammateMessage.tsx
+31/03/2026  01:19            29 051 UserTextMessage.tsx
+31/03/2026  23:08    <DIR>          UserToolResultMessage
+              33 fichier(s)          606 813 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\messages\UserToolResultMessage
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 409 RejectedPlanMessage.tsx
+31/03/2026  01:19             1 763 RejectedToolUseMessage.tsx
+31/03/2026  01:19             1 777 UserToolCanceledMessage.tsx
+31/03/2026  01:19            12 222 UserToolErrorMessage.tsx
+31/03/2026  01:19             8 570 UserToolRejectMessage.tsx
+31/03/2026  01:19            13 742 UserToolResultMessage.tsx
+31/03/2026  01:19            16 409 UserToolSuccessMessage.tsx
+31/03/2026  01:19             3 938 utils.tsx
+               8 fichier(s)           61 830 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\Passes
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            27 380 Passes.tsx
+               1 fichier(s)           27 380 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          AskUserQuestionPermissionRequest
+31/03/2026  23:08    <DIR>          BashPermissionRequest
+31/03/2026  23:08    <DIR>          ComputerUseApproval
+31/03/2026  23:08    <DIR>          EnterPlanModePermissionRequest
+31/03/2026  23:08    <DIR>          ExitPlanModePermissionRequest
+31/03/2026  01:19            30 677 FallbackPermissionRequest.tsx
+31/03/2026  23:08    <DIR>          FileEditPermissionRequest
+31/03/2026  23:08    <DIR>          FilePermissionDialog
+31/03/2026  23:08    <DIR>          FilesystemPermissionRequest
+31/03/2026  23:08    <DIR>          FileWritePermissionRequest
+31/03/2026  01:19             8 453 hooks.ts
+31/03/2026  23:08    <DIR>          NotebookEditPermissionRequest
+31/03/2026  01:19            52 533 PermissionDecisionDebugInfo.tsx
+31/03/2026  01:19             7 317 PermissionDialog.tsx
+31/03/2026  01:19            23 700 PermissionExplanation.tsx
+31/03/2026  01:19            37 391 PermissionPrompt.tsx
+31/03/2026  01:19            33 579 PermissionRequest.tsx
+31/03/2026  01:19             5 781 PermissionRequestTitle.tsx
+31/03/2026  01:19            14 921 PermissionRuleExplanation.tsx
+31/03/2026  23:08    <DIR>          PowerShellPermissionRequest
+31/03/2026  23:08    <DIR>          rules
+31/03/2026  01:19            14 272 SandboxPermissionRequest.tsx
+31/03/2026  23:08    <DIR>          SedEditPermissionRequest
+31/03/2026  01:19            22 517 shellPermissionHelpers.tsx
+31/03/2026  23:08    <DIR>          SkillPermissionRequest
+31/03/2026  01:19             4 605 useShellPermissionFeedback.ts
+31/03/2026  01:19               660 utils.ts
+31/03/2026  23:08    <DIR>          WebFetchPermissionRequest
+31/03/2026  01:19             3 850 WorkerBadge.tsx
+31/03/2026  01:19             9 365 WorkerPendingPermission.tsx
+              15 fichier(s)          269 621 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\AskUserQuestionPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            82 469 AskUserQuestionPermissionRequest.tsx
+31/03/2026  01:19            25 959 PreviewBox.tsx
+31/03/2026  01:19            52 983 PreviewQuestionView.tsx
+31/03/2026  01:19            22 963 QuestionNavigationBar.tsx
+31/03/2026  01:19            58 579 QuestionView.tsx
+31/03/2026  01:19            16 641 SubmitQuestionsView.tsx
+31/03/2026  01:19             4 142 use-multiple-choice-state.ts
+               7 fichier(s)          263 736 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\BashPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            75 744 BashPermissionRequest.tsx
+31/03/2026  01:19            21 446 bashToolUseOptions.tsx
+               2 fichier(s)           97 190 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\ComputerUseApproval
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            44 745 ComputerUseApproval.tsx
+               1 fichier(s)           44 745 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\EnterPlanModePermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            13 340 EnterPlanModePermissionRequest.tsx
+               1 fichier(s)           13 340 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\ExitPlanModePermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19           121 607 ExitPlanModePermissionRequest.tsx
+               1 fichier(s)          121 607 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\FileEditPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            16 257 FileEditPermissionRequest.tsx
+               1 fichier(s)           16 257 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\FilePermissionDialog
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            30 317 FilePermissionDialog.tsx
+31/03/2026  01:19               858 ideDiffConfig.ts
+31/03/2026  01:19            22 367 permissionOptions.tsx
+31/03/2026  01:19             6 809 useFilePermissionDialog.ts
+31/03/2026  01:19             5 105 usePermissionHandler.ts
+               5 fichier(s)           65 456 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\FilesystemPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            13 085 FilesystemPermissionRequest.tsx
+               1 fichier(s)           13 085 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\FileWritePermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            16 526 FileWritePermissionRequest.tsx
+31/03/2026  01:19             9 672 FileWriteToolDiff.tsx
+               2 fichier(s)           26 198 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\NotebookEditPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            16 494 NotebookEditPermissionRequest.tsx
+31/03/2026  01:19            24 680 NotebookEditToolDiff.tsx
+               2 fichier(s)           41 174 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\PowerShellPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            38 696 PowerShellPermissionRequest.tsx
+31/03/2026  01:19            11 950 powershellToolUseOptions.tsx
+               2 fichier(s)           50 646 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\rules
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            22 020 AddPermissionRules.tsx
+31/03/2026  01:19            37 741 AddWorkspaceDirectory.tsx
+31/03/2026  01:19             6 900 PermissionRuleDescription.tsx
+31/03/2026  01:19            16 427 PermissionRuleInput.tsx
+31/03/2026  01:19           118 930 PermissionRuleList.tsx
+31/03/2026  01:19            18 857 RecentDenialsTab.tsx
+31/03/2026  01:19             9 757 RemoveWorkspaceDirectory.tsx
+31/03/2026  01:19            15 172 WorkspaceTab.tsx
+               8 fichier(s)          245 804 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\SedEditPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            20 862 SedEditPermissionRequest.tsx
+               1 fichier(s)           20 862 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\SkillPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            36 531 SkillPermissionRequest.tsx
+               1 fichier(s)           36 531 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\permissions\WebFetchPermissionRequest
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            22 888 WebFetchPermissionRequest.tsx
+               1 fichier(s)           22 888 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\PromptInput
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             5 005 HistorySearchInput.tsx
+31/03/2026  01:19               731 inputModes.ts
+31/03/2026  01:19             2 693 inputPaste.ts
+31/03/2026  01:19             1 914 IssueFlagBanner.tsx
+31/03/2026  01:19            48 104 Notifications.tsx
+31/03/2026  01:19           355 032 PromptInput.tsx
+31/03/2026  01:19            33 176 PromptInputFooter.tsx
+31/03/2026  01:19            87 315 PromptInputFooterLeftSide.tsx
+31/03/2026  01:19            34 158 PromptInputFooterSuggestions.tsx
+31/03/2026  01:19            32 811 PromptInputHelpMenu.tsx
+31/03/2026  01:19            11 127 PromptInputModeIndicator.tsx
+31/03/2026  01:19            19 587 PromptInputQueuedCommands.tsx
+31/03/2026  01:19             2 291 PromptInputStashNotice.tsx
+31/03/2026  01:19             8 031 SandboxPromptFooterHint.tsx
+31/03/2026  01:19            16 680 ShimmeredInput.tsx
+31/03/2026  01:19             1 468 useMaybeTruncateInput.ts
+31/03/2026  01:19             2 391 usePromptInputPlaceholder.ts
+31/03/2026  01:19               696 useShowFastIconHint.ts
+31/03/2026  01:19             5 344 useSwarmBanner.ts
+31/03/2026  01:19             1 744 utils.ts
+31/03/2026  01:19            10 810 VoiceIndicator.tsx
+              21 fichier(s)          681 108 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\sandbox
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            16 895 SandboxConfigTab.tsx
+31/03/2026  01:19            17 402 SandboxDependenciesTab.tsx
+31/03/2026  01:19             6 190 SandboxDoctorSection.tsx
+31/03/2026  01:19            20 473 SandboxOverridesTab.tsx
+31/03/2026  01:19            29 988 SandboxSettings.tsx
+               5 fichier(s)           90 948 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\Settings
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19           271 407 Config.tsx
+31/03/2026  01:19            18 641 Settings.tsx
+31/03/2026  01:19            25 871 Status.tsx
+31/03/2026  01:19            39 524 Usage.tsx
+               4 fichier(s)          355 443 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\shell
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 504 ExpandShellOutputContext.tsx
+31/03/2026  01:19            14 388 OutputLine.tsx
+31/03/2026  01:19            14 373 ShellProgressMessage.tsx
+31/03/2026  01:19             5 229 ShellTimeDisplay.tsx
+               4 fichier(s)           37 494 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\skills
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            27 508 SkillsMenu.tsx
+               1 fichier(s)           27 508 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\Spinner
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             6 310 FlashingChar.tsx
+31/03/2026  01:19            26 955 GlimmerMessage.tsx
+31/03/2026  01:19               602 index.ts
+31/03/2026  01:19             3 357 ShimmerChar.tsx
+31/03/2026  01:19            42 767 SpinnerAnimationRow.tsx
+31/03/2026  01:19            10 291 SpinnerGlyph.tsx
+31/03/2026  01:19                64 teammateSelectHint.ts
+31/03/2026  01:19            38 859 TeammateSpinnerLine.tsx
+31/03/2026  01:19            28 052 TeammateSpinnerTree.tsx
+31/03/2026  01:19             1 236 useShimmerAnimation.ts
+31/03/2026  01:19             2 500 useStalledAnimation.ts
+31/03/2026  01:19             2 261 utils.ts
+              12 fichier(s)          163 254 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\StructuredDiff
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 137 colorDiff.ts
+31/03/2026  01:19            56 579 Fallback.tsx
+               2 fichier(s)           57 716 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\tasks
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            29 805 AsyncAgentDetailDialog.tsx
+31/03/2026  01:19            31 248 BackgroundTask.tsx
+31/03/2026  01:19           116 395 BackgroundTasksDialog.tsx
+31/03/2026  01:19            43 375 BackgroundTaskStatus.tsx
+31/03/2026  01:19            25 889 DreamDetailDialog.tsx
+31/03/2026  01:19            31 018 InProcessTeammateDetailDialog.tsx
+31/03/2026  01:19            96 185 RemoteSessionDetailDialog.tsx
+31/03/2026  01:19            27 859 RemoteSessionProgress.tsx
+31/03/2026  01:19             4 414 renderToolActivity.tsx
+31/03/2026  01:19            39 167 ShellDetailDialog.tsx
+31/03/2026  01:19             7 004 ShellProgress.tsx
+31/03/2026  01:19            13 548 taskStatusUtils.tsx
+              12 fichier(s)          465 907 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\teams
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            94 680 TeamsDialog.tsx
+31/03/2026  01:19             6 897 TeamStatus.tsx
+               2 fichier(s)          101 577 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\TrustDialog
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            32 481 TrustDialog.tsx
+31/03/2026  01:19             7 005 utils.ts
+               2 fichier(s)           39 486 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\ui
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             7 294 OrderedList.tsx
+31/03/2026  01:19             3 477 OrderedListItem.tsx
+31/03/2026  01:19            38 964 TreeSelect.tsx
+               3 fichier(s)           49 735 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\components\wizard
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               328 index.ts
+31/03/2026  01:19               447 useWizard.ts
+31/03/2026  01:19             6 271 WizardDialogLayout.tsx
+31/03/2026  01:19             4 246 WizardNavigationFooter.tsx
+31/03/2026  01:19            18 665 WizardProvider.tsx
+               5 fichier(s)           29 957 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\constants
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 443 apiLimits.ts
+31/03/2026  01:19             2 218 betas.ts
+31/03/2026  01:19             1 516 common.ts
+31/03/2026  01:19             1 525 cyberRiskInstruction.ts
+31/03/2026  01:19               476 errorIds.ts
+31/03/2026  01:19             2 063 figures.ts
+31/03/2026  01:19             2 625 files.ts
+31/03/2026  01:19             5 347 github-app.ts
+31/03/2026  01:19               444 keys.ts
+31/03/2026  01:19                49 messages.ts
+31/03/2026  01:19             8 970 oauth.ts
+31/03/2026  01:19             9 886 outputStyles.ts
+31/03/2026  01:19             2 563 product.ts
+31/03/2026  01:19            54 320 prompts.ts
+31/03/2026  01:19             3 453 spinnerVerbs.ts
+31/03/2026  01:19             3 859 system.ts
+31/03/2026  01:19             1 794 systemPromptSections.ts
+31/03/2026  01:19             2 169 toolLimits.ts
+31/03/2026  01:19             4 690 tools.ts
+31/03/2026  01:19               269 turnCompletionVerbs.ts
+31/03/2026  01:19             3 325 xml.ts
+              21 fichier(s)          115 004 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\context
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 158 fpsMetrics.tsx
+31/03/2026  01:19             3 436 mailbox.tsx
+31/03/2026  01:19             6 266 modalContext.tsx
+31/03/2026  01:19            33 050 notifications.tsx
+31/03/2026  01:19            14 123 overlayContext.tsx
+31/03/2026  01:19            12 138 promptOverlayContext.tsx
+31/03/2026  01:19             5 598 QueuedMessageContext.tsx
+31/03/2026  01:19            22 006 stats.tsx
+31/03/2026  01:19             8 784 voice.tsx
+               9 fichier(s)          108 559 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\coordinator
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            19 020 coordinatorMode.ts
+               1 fichier(s)           19 020 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\entrypoints
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            13 076 agentSdkTypes.ts
+31/03/2026  01:19            39 275 cli.tsx
+31/03/2026  01:19            13 780 init.ts
+31/03/2026  01:19             6 270 mcp.ts
+31/03/2026  01:19             5 735 sandboxTypes.ts
+31/03/2026  23:08    <DIR>          sdk
+               5 fichier(s)           78 136 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\entrypoints\sdk
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            19 554 controlSchemas.ts
+31/03/2026  01:19            56 493 coreSchemas.ts
+31/03/2026  01:19             1 466 coreTypes.ts
+               3 fichier(s)           77 513 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\hooks
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            27 152 fileSuggestions.ts
+31/03/2026  23:08    <DIR>          notifs
+31/03/2026  01:19             1 280 renderPlaceholder.ts
+31/03/2026  23:08    <DIR>          toolPermission
+31/03/2026  01:19             5 837 unifiedSuggestions.ts
+31/03/2026  01:19               485 useAfterFirstRender.ts
+31/03/2026  01:19             2 678 useApiKeyVerification.ts
+31/03/2026  01:19            34 135 useArrowKeyHistory.tsx
+31/03/2026  01:19             9 228 useAssistantHistory.ts
+31/03/2026  01:19             3 835 useAwaySummary.ts
+31/03/2026  01:19             8 553 useBackgroundTaskNavigation.ts
+31/03/2026  01:19             1 279 useBlink.ts
+31/03/2026  01:19            10 127 useCancelRequest.ts
+31/03/2026  01:19            40 206 useCanUseTool.tsx
+31/03/2026  01:19             6 779 useChromeExtensionNotification.tsx
+31/03/2026  01:19            15 388 useClaudeCodeHintRecommendation.tsx
+31/03/2026  01:19             2 458 useClipboardImageHint.ts
+31/03/2026  01:19            11 023 useCommandKeybindings.tsx
+31/03/2026  01:19               543 useCommandQueue.ts
+31/03/2026  01:19             4 287 useCopyOnSelect.ts
+31/03/2026  01:19             1 499 useDeferredHookMessages.ts
+31/03/2026  01:19             2 839 useDiffData.ts
+31/03/2026  01:19             9 867 useDiffInIDE.ts
+31/03/2026  01:19             7 504 useDirectConnect.ts
+31/03/2026  01:19             1 651 useDoublePress.ts
+31/03/2026  01:19               703 useDynamicConfig.ts
+31/03/2026  01:19             1 226 useElapsedTime.ts
+31/03/2026  01:19             3 226 useExitOnCtrlCD.ts
+31/03/2026  01:19               948 useExitOnCtrlCDWithKeybindings.ts
+31/03/2026  01:19               767 useFileHistorySnapshotInit.ts
+31/03/2026  01:19            31 213 useGlobalKeybindings.tsx
+31/03/2026  01:19             9 488 useHistorySearch.ts
+31/03/2026  01:19             2 217 useIdeAtMentioned.ts
+31/03/2026  01:19               981 useIdeConnectionStatus.ts
+31/03/2026  01:19            10 517 useIDEIntegration.tsx
+31/03/2026  01:19             1 201 useIdeLogging.ts
+31/03/2026  01:19             4 349 useIdeSelection.ts
+31/03/2026  01:19            34 375 useInboxPoller.ts
+31/03/2026  01:19             3 386 useInputBuffer.ts
+31/03/2026  01:19             3 828 useIssueFlagBanner.ts
+31/03/2026  01:19             5 710 useLogMessages.ts
+31/03/2026  01:19            21 588 useLspPluginRecommendation.tsx
+31/03/2026  01:19               716 useMailboxBridge.ts
+31/03/2026  01:19             1 509 useMainLoopModel.ts
+31/03/2026  01:19            11 888 useManagePlugins.ts
+31/03/2026  01:19             1 293 useMemoryUsage.ts
+31/03/2026  01:19               745 useMergedClients.ts
+31/03/2026  01:19               423 useMergedCommands.ts
+31/03/2026  01:19             1 645 useMergedTools.ts
+31/03/2026  01:19             1 010 useMinDisplayTime.ts
+31/03/2026  01:19             2 471 useNotifyAfterTimeout.ts
+31/03/2026  01:19             7 299 useOfficialMarketplaceNotification.tsx
+31/03/2026  01:19            10 146 usePasteHandler.ts
+31/03/2026  01:19            11 418 usePluginRecommendationBase.tsx
+31/03/2026  01:19            11 623 usePromptsFromClaudeInChrome.tsx
+31/03/2026  01:19             5 315 usePromptSuggestion.ts
+31/03/2026  01:19             3 202 usePrStatus.ts
+31/03/2026  01:19             2 547 useQueueProcessor.ts
+31/03/2026  01:19            23 010 useRemoteSession.ts
+31/03/2026  01:19           115 652 useReplBridge.tsx
+31/03/2026  01:19             5 975 useScheduledTasks.ts
+31/03/2026  01:19            10 327 useSearchInput.ts
+31/03/2026  01:19             4 944 useSessionBackgrounding.ts
+31/03/2026  01:19               618 useSettings.ts
+31/03/2026  01:19               946 useSettingsChange.ts
+31/03/2026  01:19             3 528 useSkillImprovementSurvey.ts
+31/03/2026  01:19             2 084 useSkillsChange.ts
+31/03/2026  01:19             8 316 useSSHSession.ts
+31/03/2026  01:19             3 151 useSwarmInitialization.ts
+31/03/2026  01:19             9 617 useSwarmPermissionPoller.ts
+31/03/2026  01:19             6 822 useTaskListWatcher.ts
+31/03/2026  01:19             8 808 useTasksV2.ts
+31/03/2026  01:19             2 189 useTeammateViewAutoExit.ts
+31/03/2026  01:19             9 840 useTeleportResume.tsx
+31/03/2026  01:19               354 useTerminalSize.ts
+31/03/2026  01:19            17 027 useTextInput.ts
+31/03/2026  01:19               362 useTimeout.ts
+31/03/2026  01:19             6 686 useTurnDiffs.ts
+31/03/2026  01:19           212 610 useTypeahead.tsx
+31/03/2026  01:19               982 useUpdateNotification.ts
+31/03/2026  01:19             9 741 useVimInput.ts
+31/03/2026  01:19            35 122 useVirtualScroll.ts
+31/03/2026  01:19            45 802 useVoice.ts
+31/03/2026  01:19             1 134 useVoiceEnabled.ts
+31/03/2026  01:19            99 464 useVoiceIntegration.tsx
+              83 fichier(s)        1 062 717 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\hooks\notifs
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 965 useAutoModeUnavailableNotification.ts
+31/03/2026  01:19             7 274 useCanSwitchToExistingSubscription.tsx
+31/03/2026  01:19             4 605 useDeprecationWarningNotification.tsx
+31/03/2026  01:19            14 961 useFastModeNotification.tsx
+31/03/2026  01:19            20 764 useIDEStatusIndicator.tsx
+31/03/2026  01:19             3 180 useInstallMessages.tsx
+31/03/2026  01:19            16 569 useLspInitializationNotification.tsx
+31/03/2026  01:19            14 710 useMcpConnectivityStatus.tsx
+31/03/2026  01:19             6 988 useModelMigrationNotifications.tsx
+31/03/2026  01:19             3 602 useNpmDeprecationNotification.tsx
+31/03/2026  01:19             9 015 usePluginAutoupdateNotification.tsx
+31/03/2026  01:19            12 012 usePluginInstallationStatus.tsx
+31/03/2026  01:19            12 250 useRateLimitWarningNotification.tsx
+31/03/2026  01:19             6 756 useSettingsErrors.tsx
+31/03/2026  01:19             1 278 useStartupNotification.ts
+31/03/2026  01:19             2 296 useTeammateShutdownNotification.ts
+              16 fichier(s)          138 225 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\hooks\toolPermission
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          handlers
+31/03/2026  01:19            12 768 PermissionContext.ts
+31/03/2026  01:19             7 286 permissionLogging.ts
+               2 fichier(s)           20 054 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\hooks\toolPermission\handlers
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 374 coordinatorHandler.ts
+31/03/2026  01:19            20 194 interactiveHandler.ts
+31/03/2026  01:19             5 537 swarmWorkerHandler.ts
+               3 fichier(s)           28 105 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            33 264 Ansi.tsx
+31/03/2026  01:19             4 290 bidi.ts
+31/03/2026  01:19             1 901 clearTerminal.ts
+31/03/2026  01:19             7 647 colorize.ts
+31/03/2026  23:07    <DIR>          components
+31/03/2026  01:19               107 constants.ts
+31/03/2026  01:19            15 126 dom.ts
+31/03/2026  23:07    <DIR>          events
+31/03/2026  01:19             5 142 focus.ts
+31/03/2026  01:19             4 209 frame.ts
+31/03/2026  01:19             1 149 get-max-width.ts
+31/03/2026  01:19             4 228 hit-test.ts
+31/03/2026  23:07    <DIR>          hooks
+31/03/2026  01:19           251 886 ink.tsx
+31/03/2026  01:19               410 instances.ts
+31/03/2026  23:07    <DIR>          layout
+31/03/2026  01:19               734 line-width-cache.ts
+31/03/2026  01:19            27 210 log-update.ts
+31/03/2026  01:19               419 measure-element.ts
+31/03/2026  01:19             1 138 measure-text.ts
+31/03/2026  01:19             1 654 node-cache.ts
+31/03/2026  01:19             2 588 optimizer.ts
+31/03/2026  01:19            26 183 output.ts
+31/03/2026  01:19            23 458 parse-keypress.ts
+31/03/2026  01:19            14 594 reconciler.ts
+31/03/2026  01:19             6 642 render-border.ts
+31/03/2026  01:19            63 281 render-node-to-output.ts
+31/03/2026  01:19             8 570 render-to-screen.ts
+31/03/2026  01:19             7 665 renderer.ts
+31/03/2026  01:19             4 600 root.ts
+31/03/2026  01:19            49 323 screen.ts
+31/03/2026  01:19             3 325 searchHighlight.ts
+31/03/2026  01:19            34 933 selection.ts
+31/03/2026  01:19             2 293 squash-text-nodes.ts
+31/03/2026  01:19             7 156 stringWidth.ts
+31/03/2026  01:19            20 889 styles.ts
+31/03/2026  01:19             1 596 supports-hyperlinks.ts
+31/03/2026  01:19             1 113 tabstops.ts
+31/03/2026  01:19             1 305 terminal-focus-state.ts
+31/03/2026  01:19             7 843 terminal-querier.ts
+31/03/2026  01:19             8 190 terminal.ts
+31/03/2026  23:07    <DIR>          termio
+31/03/2026  01:19             1 036 termio.ts
+31/03/2026  01:19             3 857 useTerminalNotification.ts
+31/03/2026  01:19               295 warn.ts
+31/03/2026  01:19               434 widest-line.ts
+31/03/2026  01:19             1 806 wrap-text.ts
+31/03/2026  01:19               383 wrapAnsi.ts
+              43 fichier(s)          663 872 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink\components
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            10 377 AlternateScreen.tsx
+31/03/2026  01:19            98 330 App.tsx
+31/03/2026  01:19               523 AppContext.ts
+31/03/2026  01:19            21 652 Box.tsx
+31/03/2026  01:19            16 523 Button.tsx
+31/03/2026  01:19            12 091 ClockContext.tsx
+31/03/2026  01:19             1 119 CursorDeclarationContext.ts
+31/03/2026  01:19            15 405 ErrorOverview.tsx
+31/03/2026  01:19             3 556 Link.tsx
+31/03/2026  01:19             2 356 Newline.tsx
+31/03/2026  01:19             5 899 NoSelect.tsx
+31/03/2026  01:19             5 157 RawAnsi.tsx
+31/03/2026  01:19            31 814 ScrollBox.tsx
+31/03/2026  01:19             1 563 Spacer.tsx
+31/03/2026  01:19             1 678 StdinContext.ts
+31/03/2026  01:19             5 955 TerminalFocusContext.tsx
+31/03/2026  01:19               983 TerminalSizeContext.tsx
+31/03/2026  01:19            16 811 Text.tsx
+              18 fichier(s)          251 792 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink\events
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 332 click-event.ts
+31/03/2026  01:19             6 004 dispatcher.ts
+31/03/2026  01:19             1 125 emitter.ts
+31/03/2026  01:19             2 202 event-handlers.ts
+31/03/2026  01:19               250 event.ts
+31/03/2026  01:19               687 focus-event.ts
+31/03/2026  01:19             7 306 input-event.ts
+31/03/2026  01:19             1 765 keyboard-event.ts
+31/03/2026  01:19             2 526 terminal-event.ts
+31/03/2026  01:19               512 terminal-focus-event.ts
+              10 fichier(s)           23 709 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink\hooks
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 933 use-animation-frame.ts
+31/03/2026  01:19               251 use-app.ts
+31/03/2026  01:19             2 996 use-declared-cursor.ts
+31/03/2026  01:19             3 107 use-input.ts
+31/03/2026  01:19             1 796 use-interval.ts
+31/03/2026  01:19             2 158 use-search-highlight.ts
+31/03/2026  01:19             4 421 use-selection.ts
+31/03/2026  01:19               232 use-stdin.ts
+31/03/2026  01:19             2 175 use-tab-status.ts
+31/03/2026  01:19               556 use-terminal-focus.ts
+31/03/2026  01:19             1 020 use-terminal-title.ts
+31/03/2026  01:19             3 977 use-terminal-viewport.ts
+              12 fichier(s)           24 622 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink\layout
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               177 engine.ts
+31/03/2026  01:19             2 471 geometry.ts
+31/03/2026  01:19             4 346 node.ts
+31/03/2026  01:19             7 400 yoga.ts
+               4 fichier(s)           14 394 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\ink\termio
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 490 ansi.ts
+31/03/2026  01:19             8 677 csi.ts
+31/03/2026  01:19             1 935 dec.ts
+31/03/2026  01:19             1 444 esc.ts
+31/03/2026  01:19            16 842 osc.ts
+31/03/2026  01:19            11 546 parser.ts
+31/03/2026  01:19             6 400 sgr.ts
+31/03/2026  01:19             9 284 tokenize.ts
+31/03/2026  01:19             7 076 types.ts
+               9 fichier(s)           64 694 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\keybindings
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            11 635 defaultBindings.ts
+31/03/2026  01:19            26 000 KeybindingContext.tsx
+31/03/2026  01:19            41 452 KeybindingProviderSetup.tsx
+31/03/2026  01:19            14 551 loadUserBindings.ts
+31/03/2026  01:19             3 797 match.ts
+31/03/2026  01:19             4 972 parser.ts
+31/03/2026  01:19             3 610 reservedShortcuts.ts
+31/03/2026  01:19             7 087 resolver.ts
+31/03/2026  01:19             6 269 schema.ts
+31/03/2026  01:19             2 575 shortcutFormat.ts
+31/03/2026  01:19             1 721 template.ts
+31/03/2026  01:19             6 862 useKeybinding.ts
+31/03/2026  01:19             2 510 useShortcutDisplay.ts
+31/03/2026  01:19            13 667 validate.ts
+              14 fichier(s)          146 708 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\memdir
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             5 305 findRelevantMemories.ts
+31/03/2026  01:19            21 174 memdir.ts
+31/03/2026  01:19             1 931 memoryAge.ts
+31/03/2026  01:19             3 105 memoryScan.ts
+31/03/2026  01:19            22 866 memoryTypes.ts
+31/03/2026  01:19            10 668 paths.ts
+31/03/2026  01:19            11 691 teamMemPaths.ts
+31/03/2026  01:19             5 998 teamMemPrompts.ts
+               8 fichier(s)           82 738 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\migrations
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 953 migrateAutoUpdatesToSettings.ts
+31/03/2026  01:19             1 262 migrateBypassPermissionsAcceptedToSettings.ts
+31/03/2026  01:19             3 977 migrateEnableAllProjectMcpServersToSettings.ts
+31/03/2026  01:19             1 372 migrateFennecToOpus.ts
+31/03/2026  01:19             1 974 migrateLegacyOpusToCurrent.ts
+31/03/2026  01:19             1 347 migrateOpusToOpus1m.ts
+31/03/2026  01:19             1 000 migrateReplBridgeEnabledToRemoteControlAtStartup.ts
+31/03/2026  01:19             1 582 migrateSonnet1mToSonnet45.ts
+31/03/2026  01:19             2 055 migrateSonnet45ToSonnet46.ts
+31/03/2026  01:19             2 106 resetAutoModeOptInForDefaultOffer.ts
+31/03/2026  01:19             1 550 resetProToOpusDefault.ts
+              11 fichier(s)           20 178 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\moreright
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 535 useMoreRight.tsx
+               1 fichier(s)            3 535 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\native-ts
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          color-diff
+31/03/2026  23:08    <DIR>          file-index
+31/03/2026  23:08    <DIR>          yoga-layout
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\native-ts\color-diff
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            30 042 index.ts
+               1 fichier(s)           30 042 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\native-ts\file-index
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            12 006 index.ts
+               1 fichier(s)           12 006 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\native-ts\yoga-layout
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 823 enums.ts
+31/03/2026  01:19            83 377 index.ts
+               2 fichier(s)           86 200 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\outputStyles
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 438 loadOutputStylesDir.ts
+               1 fichier(s)            3 438 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\plugins
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 980 builtinPlugins.ts
+31/03/2026  23:07    <DIR>          bundled
+               1 fichier(s)            4 980 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\plugins\bundled
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               843 index.ts
+               1 fichier(s)              843 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\query
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 808 config.ts
+31/03/2026  01:19             1 445 deps.ts
+31/03/2026  01:19            17 290 stopHooks.ts
+31/03/2026  01:19             2 320 tokenBudget.ts
+               4 fichier(s)           22 863 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\remote
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 378 remotePermissionBridge.ts
+31/03/2026  01:19             9 320 RemoteSessionManager.ts
+31/03/2026  01:19             9 060 sdkMessageAdapter.ts
+31/03/2026  01:19            12 505 SessionsWebSocket.ts
+               4 fichier(s)           33 263 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\schemas
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 884 hooks.ts
+               1 fichier(s)            7 884 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\screens
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            73 277 Doctor.tsx
+31/03/2026  01:19           895 850 REPL.tsx
+31/03/2026  01:19            59 682 ResumeConversation.tsx
+               3 fichier(s)        1 028 809 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\server
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 193 createDirectConnectSession.ts
+31/03/2026  01:19             5 898 directConnectManager.ts
+31/03/2026  01:19             1 466 types.ts
+               3 fichier(s)            9 557 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          AgentSummary
+31/03/2026  23:08    <DIR>          analytics
+31/03/2026  23:08    <DIR>          api
+31/03/2026  23:08    <DIR>          autoDream
+31/03/2026  01:19             2 671 awaySummary.ts
+31/03/2026  01:19            16 803 claudeAiLimits.ts
+31/03/2026  01:19               515 claudeAiLimitsHook.ts
+31/03/2026  23:08    <DIR>          compact
+31/03/2026  01:19            12 315 diagnosticTracking.ts
+31/03/2026  23:08    <DIR>          extractMemories
+31/03/2026  01:19             2 799 internalLogging.ts
+31/03/2026  23:08    <DIR>          lsp
+31/03/2026  23:08    <DIR>          MagicDocs
+31/03/2026  23:08    <DIR>          mcp
+31/03/2026  01:19             6 400 mcpServerApproval.tsx
+31/03/2026  01:19            29 698 mockRateLimits.ts
+31/03/2026  01:19             4 256 notifier.ts
+31/03/2026  23:08    <DIR>          oauth
+31/03/2026  23:08    <DIR>          plugins
+31/03/2026  23:08    <DIR>          policyLimits
+31/03/2026  01:19             4 586 preventSleep.ts
+31/03/2026  23:08    <DIR>          PromptSuggestion
+31/03/2026  01:19            10 858 rateLimitMessages.ts
+31/03/2026  01:19             4 420 rateLimitMocking.ts
+31/03/2026  23:08    <DIR>          remoteManagedSettings
+31/03/2026  23:08    <DIR>          SessionMemory
+31/03/2026  23:08    <DIR>          settingsSync
+31/03/2026  23:08    <DIR>          teamMemorySync
+31/03/2026  23:08    <DIR>          tips
+31/03/2026  01:19            16 883 tokenEstimation.ts
+31/03/2026  23:08    <DIR>          tools
+31/03/2026  23:08    <DIR>          toolUseSummary
+31/03/2026  01:19            12 166 vcr.ts
+31/03/2026  01:19            17 116 voice.ts
+31/03/2026  01:19             3 462 voiceKeyterms.ts
+31/03/2026  01:19            21 375 voiceStreamSTT.ts
+              16 fichier(s)          166 323 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\AgentSummary
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             6 407 agentSummary.ts
+               1 fichier(s)            6 407 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\analytics
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             1 237 config.ts
+31/03/2026  01:19             9 101 datadog.ts
+31/03/2026  01:19            14 590 firstPartyEventLogger.ts
+31/03/2026  01:19            26 362 firstPartyEventLoggingExporter.ts
+31/03/2026  01:19            40 526 growthbook.ts
+31/03/2026  01:19             5 542 index.ts
+31/03/2026  01:19            32 617 metadata.ts
+31/03/2026  01:19             3 542 sink.ts
+31/03/2026  01:19             1 063 sinkKillswitch.ts
+               9 fichier(s)          134 580 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\api
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 208 adminRequests.ts
+31/03/2026  01:19             4 634 bootstrap.ts
+31/03/2026  01:19           125 779 claude.ts
+31/03/2026  01:19            16 164 client.ts
+31/03/2026  01:19             7 332 dumpPrompts.ts
+31/03/2026  01:19               712 emptyUsage.ts
+31/03/2026  01:19            41 735 errors.ts
+31/03/2026  01:19             8 405 errorUtils.ts
+31/03/2026  01:19            21 494 filesApi.ts
+31/03/2026  01:19             1 765 firstTokenDate.ts
+31/03/2026  01:19            11 543 grove.ts
+31/03/2026  01:19            24 191 logging.ts
+31/03/2026  01:19             5 355 metricsOptOut.ts
+31/03/2026  01:19             4 913 overageCreditGrant.ts
+31/03/2026  01:19            26 288 promptCacheBreakDetection.ts
+31/03/2026  01:19             7 985 referral.ts
+31/03/2026  01:19            17 055 sessionIngress.ts
+31/03/2026  01:19             1 219 ultrareviewQuota.ts
+31/03/2026  01:19             1 685 usage.ts
+31/03/2026  01:19            28 238 withRetry.ts
+              20 fichier(s)          359 700 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\autoDream
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            11 259 autoDream.ts
+31/03/2026  01:19               892 config.ts
+31/03/2026  01:19             4 548 consolidationLock.ts
+31/03/2026  01:19             3 225 consolidationPrompt.ts
+               4 fichier(s)           19 924 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\compact
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             4 996 apiMicrocompact.ts
+31/03/2026  01:19            12 905 autoCompact.ts
+31/03/2026  01:19            60 814 compact.ts
+31/03/2026  01:19               568 compactWarningHook.ts
+31/03/2026  01:19               693 compactWarningState.ts
+31/03/2026  01:19             2 794 grouping.ts
+31/03/2026  01:19            19 544 microCompact.ts
+31/03/2026  01:19             3 778 postCompactCleanup.ts
+31/03/2026  01:19            16 278 prompt.ts
+31/03/2026  01:19            21 058 sessionMemoryCompact.ts
+31/03/2026  01:19             1 766 timeBasedMCConfig.ts
+              11 fichier(s)          145 194 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\extractMemories
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            21 684 extractMemories.ts
+31/03/2026  01:19             7 673 prompts.ts
+               2 fichier(s)           29 357 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\lsp
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 857 config.ts
+31/03/2026  01:19            14 361 LSPClient.ts
+31/03/2026  01:19            11 957 LSPDiagnosticRegistry.ts
+31/03/2026  01:19            16 864 LSPServerInstance.ts
+31/03/2026  01:19            13 394 LSPServerManager.ts
+31/03/2026  01:19            10 067 manager.ts
+31/03/2026  01:19            11 190 passiveFeedback.ts
+               7 fichier(s)           80 690 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\MagicDocs
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             7 683 magicDocs.ts
+31/03/2026  01:19             5 595 prompts.ts
+               2 fichier(s)           13 278 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\mcp
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            88 879 auth.ts
+31/03/2026  01:19             2 838 channelAllowlist.ts
+31/03/2026  01:19            12 540 channelNotification.ts
+31/03/2026  01:19             8 981 channelPermissions.ts
+31/03/2026  01:19             6 126 claudeai.ts
+31/03/2026  01:19           119 060 client.ts
+31/03/2026  01:19            51 130 config.ts
+31/03/2026  01:19            10 166 elicitationHandler.ts
+31/03/2026  01:19             1 047 envExpansion.ts
+31/03/2026  01:19             4 718 headersHelper.ts
+31/03/2026  01:19             1 772 InProcessTransport.ts
+31/03/2026  01:19             8 186 MCPConnectionManager.tsx
+31/03/2026  01:19             3 968 mcpStringUtils.ts
+31/03/2026  01:19               879 normalization.ts
+31/03/2026  01:19             2 325 oauthPort.ts
+31/03/2026  01:19             2 013 officialRegistry.ts
+31/03/2026  01:19             4 503 SdkControlTransport.ts
+31/03/2026  01:19             6 962 types.ts
+31/03/2026  01:19            44 866 useManageMCPConnections.ts
+31/03/2026  01:19            17 931 utils.ts
+31/03/2026  01:19             3 703 vscodeSdkMcp.ts
+31/03/2026  01:19            18 286 xaa.ts
+31/03/2026  01:19            16 271 xaaIdpLogin.ts
+              23 fichier(s)          437 150 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\oauth
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             6 650 auth-code-listener.ts
+31/03/2026  01:19            18 254 client.ts
+31/03/2026  01:19               566 crypto.ts
+31/03/2026  01:19             1 611 getOauthProfile.ts
+31/03/2026  01:19             6 554 index.ts
+               5 fichier(s)           33 635 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\plugins
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            10 894 pluginCliCommands.ts
+31/03/2026  01:19             6 017 PluginInstallationManager.ts
+31/03/2026  01:19            35 619 pluginOperations.ts
+               3 fichier(s)           52 530 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\policyLimits
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            18 064 index.ts
+31/03/2026  01:19               792 types.ts
+               2 fichier(s)           18 856 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\PromptSuggestion
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            17 065 promptSuggestion.ts
+31/03/2026  01:19            30 680 speculation.ts
+               2 fichier(s)           47 745 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\remoteManagedSettings
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            20 911 index.ts
+31/03/2026  01:19            10 513 securityCheck.tsx
+31/03/2026  01:19             4 229 syncCache.ts
+31/03/2026  01:19             4 004 syncCacheState.ts
+31/03/2026  01:19             1 060 types.ts
+               5 fichier(s)           40 717 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\SessionMemory
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            12 629 prompts.ts
+31/03/2026  01:19            16 561 sessionMemory.ts
+31/03/2026  01:19             6 110 sessionMemoryUtils.ts
+               3 fichier(s)           35 300 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\settingsSync
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            17 924 index.ts
+31/03/2026  01:19             1 668 types.ts
+               2 fichier(s)           19 592 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\teamMemorySync
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            44 153 index.ts
+31/03/2026  01:19             9 458 secretScanner.ts
+31/03/2026  01:19             1 552 teamMemSecretGuard.ts
+31/03/2026  01:19             4 906 types.ts
+31/03/2026  01:19            13 405 watcher.ts
+               5 fichier(s)           73 474 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\tips
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19               601 tipHistory.ts
+31/03/2026  01:19            23 154 tipRegistry.ts
+31/03/2026  01:19             1 664 tipScheduler.ts
+               3 fichier(s)           25 419 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\tools
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19            17 196 StreamingToolExecutor.ts
+31/03/2026  01:19            60 309 toolExecution.ts
+31/03/2026  01:19            22 333 toolHooks.ts
+31/03/2026  01:19             5 501 toolOrchestration.ts
+               4 fichier(s)          105 339 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\services\toolUseSummary
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             3 376 toolUseSummaryGenerator.ts
+               1 fichier(s)            3 376 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\skills
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  23:08    <DIR>          bundled
+31/03/2026  01:19             7 497 bundledSkills.ts
+31/03/2026  01:19            34 415 loadSkillsDir.ts
+31/03/2026  01:19             1 627 mcpSkillBuilders.ts
+               3 fichier(s)           43 539 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\skills\bundled
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             7 177 batch.ts
+31/03/2026  01:19             6 323 claudeApi.ts
+31/03/2026  01:19             4 280 claudeApiContent.ts
+31/03/2026  01:19             1 760 claudeInChrome.ts
+31/03/2026  01:19             4 219 debug.ts
+31/03/2026  01:19             3 252 index.ts
+31/03/2026  01:19            10 412 keybindings.ts
+31/03/2026  01:19             4 667 loop.ts
+31/03/2026  01:19             4 400 loremIpsum.ts
+31/03/2026  01:19             4 227 remember.ts
+31/03/2026  01:19            19 048 scheduleRemoteAgents.ts
+31/03/2026  01:19             4 466 simplify.ts
+31/03/2026  01:19             9 483 skillify.ts
+31/03/2026  01:19             4 254 stuck.ts
+31/03/2026  01:19            17 453 updateConfig.ts
+31/03/2026  01:19               893 verify.ts
+31/03/2026  01:19               414 verifyContent.ts
+              17 fichier(s)          106 728 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\state
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            23 480 AppState.tsx
+31/03/2026  01:19            21 847 AppStateStore.ts
+31/03/2026  01:19             6 197 onChangeAppState.ts
+31/03/2026  01:19             2 240 selectors.ts
+31/03/2026  01:19               836 store.ts
+31/03/2026  01:19             4 399 teammateViewHelpers.ts
+               6 fichier(s)           58 999 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          DreamTask
+31/03/2026  23:07    <DIR>          InProcessTeammateTask
+31/03/2026  23:07    <DIR>          LocalAgentTask
+31/03/2026  01:19            15 136 LocalMainSessionTask.ts
+31/03/2026  23:07    <DIR>          LocalShellTask
+31/03/2026  01:19             2 898 pillLabel.ts
+31/03/2026  23:07    <DIR>          RemoteAgentTask
+31/03/2026  01:19             2 894 stopTask.ts
+31/03/2026  01:19             1 691 types.ts
+               4 fichier(s)           22 619 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks\DreamTask
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 988 DreamTask.ts
+               1 fichier(s)            4 988 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks\InProcessTeammateTask
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            16 381 InProcessTeammateTask.tsx
+31/03/2026  01:19             4 322 types.ts
+               2 fichier(s)           20 703 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks\LocalAgentTask
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            82 910 LocalAgentTask.tsx
+               1 fichier(s)           82 910 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks\LocalShellTask
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 552 guards.ts
+31/03/2026  01:19             2 565 killShellTasks.ts
+31/03/2026  01:19            66 306 LocalShellTask.tsx
+               3 fichier(s)           70 423 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tasks\RemoteAgentTask
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19           126 389 RemoteAgentTask.tsx
+               1 fichier(s)          126 389 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          AgentTool
+31/03/2026  23:07    <DIR>          AskUserQuestionTool
+31/03/2026  23:07    <DIR>          BashTool
+31/03/2026  23:07    <DIR>          BriefTool
+31/03/2026  23:07    <DIR>          ConfigTool
+31/03/2026  23:07    <DIR>          EnterPlanModeTool
+31/03/2026  23:07    <DIR>          EnterWorktreeTool
+31/03/2026  23:07    <DIR>          ExitPlanModeTool
+31/03/2026  23:07    <DIR>          ExitWorktreeTool
+31/03/2026  23:07    <DIR>          FileEditTool
+31/03/2026  23:07    <DIR>          FileReadTool
+31/03/2026  23:07    <DIR>          FileWriteTool
+31/03/2026  23:07    <DIR>          GlobTool
+31/03/2026  23:07    <DIR>          GrepTool
+31/03/2026  23:07    <DIR>          ListMcpResourcesTool
+31/03/2026  23:07    <DIR>          LSPTool
+31/03/2026  23:07    <DIR>          McpAuthTool
+31/03/2026  23:07    <DIR>          MCPTool
+31/03/2026  23:07    <DIR>          NotebookEditTool
+31/03/2026  23:07    <DIR>          PowerShellTool
+31/03/2026  23:07    <DIR>          ReadMcpResourceTool
+31/03/2026  23:07    <DIR>          RemoteTriggerTool
+31/03/2026  23:07    <DIR>          REPLTool
+31/03/2026  23:07    <DIR>          ScheduleCronTool
+31/03/2026  23:07    <DIR>          SendMessageTool
+31/03/2026  23:07    <DIR>          shared
+31/03/2026  23:07    <DIR>          SkillTool
+31/03/2026  23:07    <DIR>          SleepTool
+31/03/2026  23:07    <DIR>          SyntheticOutputTool
+31/03/2026  23:07    <DIR>          TaskCreateTool
+31/03/2026  23:07    <DIR>          TaskGetTool
+31/03/2026  23:07    <DIR>          TaskListTool
+31/03/2026  23:07    <DIR>          TaskOutputTool
+31/03/2026  23:07    <DIR>          TaskStopTool
+31/03/2026  23:07    <DIR>          TaskUpdateTool
+31/03/2026  23:07    <DIR>          TeamCreateTool
+31/03/2026  23:07    <DIR>          TeamDeleteTool
+31/03/2026  23:07    <DIR>          testing
+31/03/2026  23:07    <DIR>          TodoWriteTool
+31/03/2026  23:07    <DIR>          ToolSearchTool
+31/03/2026  01:19             1 105 utils.ts
+31/03/2026  23:07    <DIR>          WebFetchTool
+31/03/2026  23:07    <DIR>          WebSearchTool
+               1 fichier(s)            1 105 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\AgentTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 499 agentColorManager.ts
+31/03/2026  01:19             3 269 agentDisplay.ts
+31/03/2026  01:19             5 853 agentMemory.ts
+31/03/2026  01:19             5 633 agentMemorySnapshot.ts
+31/03/2026  01:19           233 734 AgentTool.tsx
+31/03/2026  01:19            22 739 agentToolUtils.ts
+31/03/2026  23:07    <DIR>          built-in
+31/03/2026  01:19             2 756 builtInAgents.ts
+31/03/2026  01:19               547 constants.ts
+31/03/2026  01:19             8 678 forkSubagent.ts
+31/03/2026  01:19            26 220 loadAgentsDir.ts
+31/03/2026  01:19            16 671 prompt.ts
+31/03/2026  01:19             9 339 resumeAgent.ts
+31/03/2026  01:19            35 768 runAgent.ts
+31/03/2026  01:19           125 359 UI.tsx
+              14 fichier(s)          498 065 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\AgentTool\built-in
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             8 959 claudeCodeGuideAgent.ts
+31/03/2026  01:19             4 686 exploreAgent.ts
+31/03/2026  01:19             2 185 generalPurposeAgent.ts
+31/03/2026  01:19             4 318 planAgent.ts
+31/03/2026  01:19             7 477 statuslineSetup.ts
+31/03/2026  01:19            11 410 verificationAgent.ts
+               6 fichier(s)           39 035 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\AskUserQuestionTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            39 887 AskUserQuestionTool.tsx
+31/03/2026  01:19             2 903 prompt.ts
+               2 fichier(s)           42 790 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\BashTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             8 589 bashCommandHelpers.ts
+31/03/2026  01:19            98 756 bashPermissions.ts
+31/03/2026  01:19           102 561 bashSecurity.ts
+31/03/2026  01:19           160 530 BashTool.tsx
+31/03/2026  01:19            19 215 BashToolResultMessage.tsx
+31/03/2026  01:19             3 658 commandSemantics.ts
+31/03/2026  01:19               637 commentLabel.ts
+31/03/2026  01:19             2 935 destructiveCommandWarning.ts
+31/03/2026  01:19             3 266 modeValidation.ts
+31/03/2026  01:19            43 679 pathValidation.ts
+31/03/2026  01:19            21 130 prompt.ts
+31/03/2026  01:19            68 322 readOnlyValidation.ts
+31/03/2026  01:19             9 562 sedEditParser.ts
+31/03/2026  01:19            21 518 sedValidation.ts
+31/03/2026  01:19             5 185 shouldUseSandbox.ts
+31/03/2026  01:19                89 toolName.ts
+31/03/2026  01:19            25 213 UI.tsx
+31/03/2026  01:19             7 207 utils.ts
+              18 fichier(s)          602 052 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\BriefTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 889 attachments.ts
+31/03/2026  01:19             7 677 BriefTool.ts
+31/03/2026  01:19             1 933 prompt.ts
+31/03/2026  01:19            14 303 UI.tsx
+31/03/2026  01:19             5 815 upload.ts
+               5 fichier(s)           33 617 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ConfigTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            13 478 ConfigTool.ts
+31/03/2026  01:19                41 constants.ts
+31/03/2026  01:19             2 881 prompt.ts
+31/03/2026  01:19             6 374 supportedSettings.ts
+31/03/2026  01:19             5 717 UI.tsx
+               5 fichier(s)           28 491 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\EnterPlanModeTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                57 constants.ts
+31/03/2026  01:19             4 101 EnterPlanModeTool.ts
+31/03/2026  01:19             7 752 prompt.ts
+31/03/2026  01:19             5 315 UI.tsx
+               4 fichier(s)           17 225 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\EnterWorktreeTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                56 constants.ts
+31/03/2026  01:19             4 364 EnterWorktreeTool.ts
+31/03/2026  01:19             1 412 prompt.ts
+31/03/2026  01:19             3 312 UI.tsx
+               4 fichier(s)            9 144 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ExitPlanModeTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               113 constants.ts
+31/03/2026  01:19            17 006 ExitPlanModeV2Tool.ts
+31/03/2026  01:19             2 139 prompt.ts
+31/03/2026  01:19            11 418 UI.tsx
+               4 fichier(s)           30 676 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ExitWorktreeTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                54 constants.ts
+31/03/2026  01:19            11 649 ExitWorktreeTool.ts
+31/03/2026  01:19             2 021 prompt.ts
+31/03/2026  01:19             4 044 UI.tsx
+               4 fichier(s)           17 768 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\FileEditTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               538 constants.ts
+31/03/2026  01:19            20 502 FileEditTool.ts
+31/03/2026  01:19             1 895 prompt.ts
+31/03/2026  01:19             2 612 types.ts
+31/03/2026  01:19            34 832 UI.tsx
+31/03/2026  01:19            22 516 utils.ts
+               6 fichier(s)           82 895 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\FileReadTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            39 073 FileReadTool.ts
+31/03/2026  01:19             2 881 imageProcessor.ts
+31/03/2026  01:19             3 219 limits.ts
+31/03/2026  01:19             2 868 prompt.ts
+31/03/2026  01:19            22 540 UI.tsx
+               5 fichier(s)           70 581 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\FileWriteTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            14 927 FileWriteTool.ts
+31/03/2026  01:19               969 prompt.ts
+31/03/2026  01:19            43 788 UI.tsx
+               3 fichier(s)           59 684 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\GlobTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             6 064 GlobTool.ts
+31/03/2026  01:19               439 prompt.ts
+31/03/2026  01:19             8 040 UI.tsx
+               3 fichier(s)           14 543 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\GrepTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            20 087 GrepTool.ts
+31/03/2026  01:19             1 150 prompt.ts
+31/03/2026  01:19            21 784 UI.tsx
+               3 fichier(s)           43 021 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ListMcpResourcesTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 907 ListMcpResourcesTool.ts
+31/03/2026  01:19               776 prompt.ts
+31/03/2026  01:19             4 757 UI.tsx
+               3 fichier(s)            9 440 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\LSPTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            17 399 formatters.ts
+31/03/2026  01:19            25 710 LSPTool.ts
+31/03/2026  01:19             1 114 prompt.ts
+31/03/2026  01:19             6 064 schemas.ts
+31/03/2026  01:19             3 392 symbolContext.ts
+31/03/2026  01:19            25 038 UI.tsx
+               6 fichier(s)           78 717 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\McpAuthTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 873 McpAuthTool.ts
+               1 fichier(s)            7 873 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\MCPTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            15 178 classifyForCollapse.ts
+31/03/2026  01:19             2 170 MCPTool.ts
+31/03/2026  01:19               119 prompt.ts
+31/03/2026  01:19            50 730 UI.tsx
+               4 fichier(s)           68 197 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\NotebookEditTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               104 constants.ts
+31/03/2026  01:19            15 271 NotebookEditTool.ts
+31/03/2026  01:19               632 prompt.ts
+31/03/2026  01:19            13 540 UI.tsx
+               4 fichier(s)           29 547 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\PowerShellTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 229 clmTypes.ts
+31/03/2026  01:19             5 459 commandSemantics.ts
+31/03/2026  01:19               894 commonParameters.ts
+31/03/2026  01:19             3 402 destructiveCommandWarning.ts
+31/03/2026  01:19             7 695 gitSafety.ts
+31/03/2026  01:19            17 399 modeValidation.ts
+31/03/2026  01:19            73 059 pathValidation.ts
+31/03/2026  01:19            67 606 powershellPermissions.ts
+31/03/2026  01:19            37 651 powershellSecurity.ts
+31/03/2026  01:19           144 624 PowerShellTool.tsx
+31/03/2026  01:19             9 826 prompt.ts
+31/03/2026  01:19            67 327 readOnlyValidation.ts
+31/03/2026  01:19               110 toolName.ts
+31/03/2026  01:19            19 768 UI.tsx
+              14 fichier(s)          462 049 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ReadMcpResourceTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               544 prompt.ts
+31/03/2026  01:19             4 654 ReadMcpResourceTool.ts
+31/03/2026  01:19             6 109 UI.tsx
+               3 fichier(s)           11 307 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\RemoteTriggerTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               697 prompt.ts
+31/03/2026  01:19             4 715 RemoteTriggerTool.ts
+31/03/2026  01:19             3 096 UI.tsx
+               3 fichier(s)            8 508 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\REPLTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 799 constants.ts
+31/03/2026  01:19             1 532 primitiveTools.ts
+               2 fichier(s)            3 331 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ScheduleCronTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             5 710 CronCreateTool.ts
+31/03/2026  01:19             2 616 CronDeleteTool.ts
+31/03/2026  01:19             2 888 CronListTool.ts
+31/03/2026  01:19             7 518 prompt.ts
+31/03/2026  01:19             8 075 UI.tsx
+               5 fichier(s)           26 807 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\SendMessageTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                52 constants.ts
+31/03/2026  01:19             2 356 prompt.ts
+31/03/2026  01:19            27 506 SendMessageTool.ts
+31/03/2026  01:19             4 679 UI.tsx
+               4 fichier(s)           34 593 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\shared
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             9 485 gitOperationTracking.ts
+31/03/2026  01:19            35 553 spawnMultiAgent.ts
+               2 fichier(s)           45 038 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\SkillTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                39 constants.ts
+31/03/2026  01:19             8 221 prompt.ts
+31/03/2026  01:19            38 175 SkillTool.ts
+31/03/2026  01:19            19 189 UI.tsx
+               4 fichier(s)           65 624 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\SleepTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               774 prompt.ts
+               1 fichier(s)              774 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\SyntheticOutputTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             5 468 SyntheticOutputTool.ts
+               1 fichier(s)            5 468 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskCreateTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19             2 760 prompt.ts
+31/03/2026  01:19             3 441 TaskCreateTool.ts
+               3 fichier(s)            6 251 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskGetTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                44 constants.ts
+31/03/2026  01:19               823 prompt.ts
+31/03/2026  01:19             2 881 TaskGetTool.ts
+               3 fichier(s)            3 748 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskListTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                46 constants.ts
+31/03/2026  01:19             2 066 prompt.ts
+31/03/2026  01:19             2 803 TaskListTool.ts
+               3 fichier(s)            4 915 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskOutputTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19            66 568 TaskOutputTool.tsx
+               2 fichier(s)           66 618 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskStopTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               280 prompt.ts
+31/03/2026  01:19             3 935 TaskStopTool.ts
+31/03/2026  01:19             5 672 UI.tsx
+               3 fichier(s)            9 887 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TaskUpdateTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19             2 375 prompt.ts
+31/03/2026  01:19            12 161 TaskUpdateTool.ts
+               3 fichier(s)           14 586 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TeamCreateTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19             6 900 prompt.ts
+31/03/2026  01:19             7 665 TeamCreateTool.ts
+31/03/2026  01:19             1 038 UI.tsx
+               4 fichier(s)           15 653 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TeamDeleteTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19               684 prompt.ts
+31/03/2026  01:19             4 221 TeamDeleteTool.ts
+31/03/2026  01:19             2 906 UI.tsx
+               4 fichier(s)            7 861 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\testing
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 312 TestingPermissionTool.tsx
+               1 fichier(s)            7 312 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\TodoWriteTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                48 constants.ts
+31/03/2026  01:19             9 527 prompt.ts
+31/03/2026  01:19             3 881 TodoWriteTool.ts
+               3 fichier(s)           13 456 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\ToolSearchTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19                50 constants.ts
+31/03/2026  01:19             5 227 prompt.ts
+31/03/2026  01:19            14 275 ToolSearchTool.ts
+               3 fichier(s)           19 552 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\WebFetchTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             5 248 preapproved.ts
+31/03/2026  01:19             2 200 prompt.ts
+31/03/2026  01:19             8 083 UI.tsx
+31/03/2026  01:19            16 761 utils.ts
+31/03/2026  01:19             9 324 WebFetchTool.ts
+               5 fichier(s)           41 616 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\tools\WebSearchTool
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 545 prompt.ts
+31/03/2026  01:19            12 160 UI.tsx
+31/03/2026  01:19            13 548 WebSearchTool.ts
+               3 fichier(s)           27 253 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 736 command.ts
+31/03/2026  23:07    <DIR>          generated
+31/03/2026  01:19             9 138 hooks.ts
+31/03/2026  01:19             1 295 ids.ts
+31/03/2026  01:19            11 291 logs.ts
+31/03/2026  01:19            13 145 permissions.ts
+31/03/2026  01:19            11 308 plugin.ts
+31/03/2026  01:19            11 628 textInputTypes.ts
+               7 fichier(s)           65 541 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          events_mono
+31/03/2026  23:07    <DIR>          google
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          claude_code
+31/03/2026  23:07    <DIR>          common
+31/03/2026  23:07    <DIR>          growthbook
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\claude_code
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          v1
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\claude_code\v1
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            30 728 claude_code_internal_event.ts
+               1 fichier(s)           30 728 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\common
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          v1
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\common\v1
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 822 auth.ts
+               1 fichier(s)            2 822 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\growthbook
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          v1
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\events_mono\growthbook\v1
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 591 growthbook_experiment_event.ts
+               1 fichier(s)            7 591 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\google
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          protobuf
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\types\generated\google\protobuf
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             6 565 timestamp.ts
+               1 fichier(s)            6 565 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\upstreamproxy
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            14 937 relay.ts
+31/03/2026  01:19             9 812 upstreamproxy.ts
+               2 fichier(s)           24 749 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             3 364 abortController.ts
+31/03/2026  01:19             4 973 activityManager.ts
+31/03/2026  01:19             5 585 advisor.ts
+31/03/2026  01:19             6 660 agentContext.ts
+31/03/2026  01:19            10 067 agenticSessionSearch.ts
+31/03/2026  01:19             2 805 agentId.ts
+31/03/2026  01:19             1 417 agentSwarmsEnabled.ts
+31/03/2026  01:19            42 931 analyzeContext.ts
+31/03/2026  01:19           214 955 ansiToPng.ts
+31/03/2026  01:19             8 212 ansiToSvg.ts
+31/03/2026  01:19            26 078 api.ts
+31/03/2026  01:19             2 843 apiPreconnect.ts
+31/03/2026  01:19             2 798 appleTerminalBackup.ts
+31/03/2026  01:19             5 079 argumentSubstitution.ts
+31/03/2026  01:19               364 array.ts
+31/03/2026  01:19             7 755 asciicast.ts
+31/03/2026  01:19           127 423 attachments.ts
+31/03/2026  01:19            13 346 attribution.ts
+31/03/2026  01:19            65 436 auth.ts
+31/03/2026  01:19             6 787 authFileDescriptor.ts
+31/03/2026  01:19               674 authPortable.ts
+31/03/2026  01:19               720 autoModeDenials.ts
+31/03/2026  01:19            10 579 autoRunIssue.tsx
+31/03/2026  01:19            18 012 autoUpdater.ts
+31/03/2026  01:19             2 305 aws.ts
+31/03/2026  01:19             2 043 awsAuthStatusManager.ts
+31/03/2026  23:07    <DIR>          background
+31/03/2026  01:19             3 213 backgroundHousekeeping.ts
+31/03/2026  23:07    <DIR>          bash
+31/03/2026  01:19            15 682 betas.ts
+31/03/2026  01:19             2 413 billing.ts
+31/03/2026  01:19             1 466 binaryCheck.ts
+31/03/2026  01:19             1 867 browser.ts
+31/03/2026  01:19             2 584 bufferedWriter.ts
+31/03/2026  01:19               618 bundledMode.ts
+31/03/2026  01:19             4 401 caCerts.ts
+31/03/2026  01:19             3 608 caCertsConfig.ts
+31/03/2026  01:19             1 411 cachePaths.ts
+31/03/2026  01:19             1 888 CircularBuffer.ts
+31/03/2026  01:19             2 448 classifierApprovals.ts
+31/03/2026  01:19               531 classifierApprovalsHook.ts
+31/03/2026  01:19             6 472 claudeCodeHints.ts
+31/03/2026  01:19             4 063 claudeDesktop.ts
+31/03/2026  23:07    <DIR>          claudeInChrome
+31/03/2026  01:19            46 391 claudemd.ts
+31/03/2026  01:19            17 770 cleanup.ts
+31/03/2026  01:19               900 cleanupRegistry.ts
+31/03/2026  01:19             2 067 cliArgs.ts
+31/03/2026  01:19             2 140 cliHighlight.ts
+31/03/2026  01:19             6 110 codeIndexing.ts
+31/03/2026  01:19             2 750 collapseBackgroundBashNotifications.ts
+31/03/2026  01:19             1 714 collapseHookSummaries.ts
+31/03/2026  01:19            37 902 collapseReadSearch.ts
+31/03/2026  01:19             1 322 collapseTeammateShutdowns.ts
+31/03/2026  01:19             1 714 combinedAbortSignal.ts
+31/03/2026  01:19               440 commandLifecycle.ts
+31/03/2026  01:19            29 594 commitAttribution.ts
+31/03/2026  01:19             5 654 completionCache.ts
+31/03/2026  23:07    <DIR>          computerUse
+31/03/2026  01:19             6 808 concurrentSessions.ts
+31/03/2026  01:19            63 496 config.ts
+31/03/2026  01:19               733 configConstants.ts
+31/03/2026  01:19             1 621 contentArray.ts
+31/03/2026  01:19             6 871 context.ts
+31/03/2026  01:19             7 733 contextAnalysis.ts
+31/03/2026  01:19             7 258 contextSuggestions.ts
+31/03/2026  01:19             1 216 controlMessageCompat.ts
+31/03/2026  01:19            21 077 conversationRecovery.ts
+31/03/2026  01:19             9 462 cron.ts
+31/03/2026  01:19             3 414 cronJitterConfig.ts
+31/03/2026  01:19            21 478 cronScheduler.ts
+31/03/2026  01:19            17 301 cronTasks.ts
+31/03/2026  01:19             6 259 cronTasksLock.ts
+31/03/2026  01:19             2 104 crossProjectResume.ts
+31/03/2026  01:19               763 crypto.ts
+31/03/2026  01:19            46 663 Cursor.ts
+31/03/2026  01:19               985 cwd.ts
+31/03/2026  01:19             8 000 debug.ts
+31/03/2026  01:19             5 069 debugFilter.ts
+31/03/2026  23:07    <DIR>          deepLink
+31/03/2026  01:19             7 130 desktopDeepLink.ts
+31/03/2026  01:19             6 063 detectRepository.ts
+31/03/2026  01:19             2 784 diagLogs.ts
+31/03/2026  01:19             4 855 diff.ts
+31/03/2026  01:19             1 715 directMemberMessage.ts
+31/03/2026  01:19             2 256 displayTags.ts
+31/03/2026  01:19             8 071 doctorContextWarnings.ts
+31/03/2026  01:19            20 502 doctorDiagnostic.ts
+31/03/2026  23:07    <DIR>          dxt
+31/03/2026  01:19             5 398 earlyInput.ts
+31/03/2026  01:19             6 634 editor.ts
+31/03/2026  01:19            11 583 effort.ts
+31/03/2026  01:19             1 043 embeddedTools.ts
+31/03/2026  01:19            10 943 env.ts
+31/03/2026  01:19             5 278 envDynamic.ts
+31/03/2026  01:19             6 246 envUtils.ts
+31/03/2026  01:19             1 045 envValidation.ts
+31/03/2026  01:19             6 557 errorLogSink.ts
+31/03/2026  01:19             7 655 errors.ts
+31/03/2026  01:19             6 200 exampleCommands.ts
+31/03/2026  01:19             4 329 execFileNoThrow.ts
+31/03/2026  01:19             2 685 execFileNoThrowPortable.ts
+31/03/2026  01:19             1 203 execSyncWrapper.ts
+31/03/2026  01:19            16 635 exportRenderer.tsx
+31/03/2026  01:19               635 extraUsage.ts
+31/03/2026  01:19            17 723 fastMode.ts
+31/03/2026  01:19            18 256 file.ts
+31/03/2026  01:19            34 660 fileHistory.ts
+31/03/2026  01:19             2 287 fileOperationAnalytics.ts
+31/03/2026  23:07    <DIR>          filePersistence
+31/03/2026  01:19             3 168 fileRead.ts
+31/03/2026  01:19             2 432 fileReadCache.ts
+31/03/2026  01:19             4 175 fileStateCache.ts
+31/03/2026  01:19               553 findExecutable.ts
+31/03/2026  01:19             2 248 fingerprint.ts
+31/03/2026  01:19            24 635 forkedAgent.ts
+31/03/2026  01:19             9 375 format.ts
+31/03/2026  01:19             2 223 formatBriefTimestamp.ts
+31/03/2026  01:19             1 299 fpsTracker.ts
+31/03/2026  01:19            12 404 frontmatterParser.ts
+31/03/2026  01:19            24 230 fsOperations.ts
+31/03/2026  01:19             8 632 fullscreen.ts
+31/03/2026  01:19             3 481 generatedFiles.ts
+31/03/2026  01:19             2 156 generators.ts
+31/03/2026  01:19             6 403 genericProcessUtils.ts
+31/03/2026  01:19             2 048 getWorktreePaths.ts
+31/03/2026  01:19               847 getWorktreePathsPortable.ts
+31/03/2026  01:19             2 823 ghPrStatus.ts
+31/03/2026  23:07    <DIR>          git
+31/03/2026  01:19            30 270 git.ts
+31/03/2026  01:19            16 039 gitDiff.ts
+31/03/2026  23:07    <DIR>          github
+31/03/2026  01:19             5 131 githubRepoPathMapping.ts
+31/03/2026  01:19               838 gitSettings.ts
+31/03/2026  01:19             4 518 glob.ts
+31/03/2026  01:19            20 088 gracefulShutdown.ts
+31/03/2026  01:19             5 537 groupToolUses.ts
+31/03/2026  01:19            21 712 handlePromptSubmit.ts
+31/03/2026  01:19             1 683 hash.ts
+31/03/2026  01:19             6 058 headlessProfiler.ts
+31/03/2026  01:19             9 890 heapDumpService.ts
+31/03/2026  01:19             5 305 heatmap.ts
+31/03/2026  01:19             4 091 highlightMatch.tsx
+31/03/2026  23:07    <DIR>          hooks
+31/03/2026  01:19           159 458 hooks.ts
+31/03/2026  01:19             4 302 horizontalScroll.ts
+31/03/2026  01:19             4 928 http.ts
+31/03/2026  01:19             1 465 hyperlink.ts
+31/03/2026  01:19            46 585 ide.ts
+31/03/2026  01:19             2 602 idePathConversion.ts
+31/03/2026  01:19             1 574 idleTimeout.ts
+31/03/2026  01:19            14 509 imagePaste.ts
+31/03/2026  01:19            26 699 imageResizer.ts
+31/03/2026  01:19             4 320 imageStore.ts
+31/03/2026  01:19             3 619 imageValidation.ts
+31/03/2026  01:19               547 immediateCommand.ts
+31/03/2026  01:19               921 ink.ts
+31/03/2026  01:19             2 988 inProcessTeammateHelpers.ts
+31/03/2026  01:19             2 824 intl.ts
+31/03/2026  01:19             1 608 iTermBackup.ts
+31/03/2026  01:19             5 805 jetbrains.ts
+31/03/2026  01:19             9 144 json.ts
+31/03/2026  01:19               657 jsonRead.ts
+31/03/2026  01:19               568 keyboardShortcuts.ts
+31/03/2026  01:19               295 lazySchema.ts
+31/03/2026  01:19            15 071 listSessionsImpl.ts
+31/03/2026  01:19             4 810 localInstaller.ts
+31/03/2026  01:19             1 330 lockfile.ts
+31/03/2026  01:19            11 693 log.ts
+31/03/2026  01:19             9 835 logoV2Utils.ts
+31/03/2026  01:19             1 596 mailbox.ts
+31/03/2026  01:19             7 908 managedEnv.ts
+31/03/2026  01:19             6 813 managedEnvConstants.ts
+31/03/2026  01:19            11 853 markdown.ts
+31/03/2026  01:19            21 312 markdownConfigLoader.ts
+31/03/2026  23:07    <DIR>          mcp
+31/03/2026  01:19             4 752 mcpInstructionsDelta.ts
+31/03/2026  01:19             7 086 mcpOutputStorage.ts
+31/03/2026  01:19             6 300 mcpValidation.ts
+31/03/2026  01:19             6 052 mcpWebSocketTransport.ts
+31/03/2026  01:19             8 612 memoize.ts
+31/03/2026  23:07    <DIR>          memory
+31/03/2026  01:19            10 212 memoryFileDetection.ts
+31/03/2026  01:19               427 messagePredicates.ts
+31/03/2026  01:19            16 563 messageQueueManager.ts
+31/03/2026  23:07    <DIR>          messages
+31/03/2026  01:19           193 203 messages.ts
+31/03/2026  23:07    <DIR>          model
+31/03/2026  01:19             7 520 modelCost.ts
+31/03/2026  01:19             1 112 modifiers.ts
+31/03/2026  01:19             4 655 mtls.ts
+31/03/2026  23:07    <DIR>          nativeInstaller
+31/03/2026  01:19             6 368 notebook.ts
+31/03/2026  01:19               511 objectGroupBy.ts
+31/03/2026  01:19             2 950 pasteStore.ts
+31/03/2026  01:19             5 700 path.ts
+31/03/2026  01:19             8 148 pdf.ts
+31/03/2026  01:19             2 190 pdfUtils.ts
+31/03/2026  01:19               981 peerAddress.ts
+31/03/2026  23:07    <DIR>          permissions
+31/03/2026  01:19             3 051 planModeV2.ts
+31/03/2026  01:19            12 390 plans.ts
+31/03/2026  01:19             3 801 platform.ts
+31/03/2026  23:07    <DIR>          plugins
+31/03/2026  23:07    <DIR>          powershell
+31/03/2026  01:19            19 309 preflightChecks.tsx
+31/03/2026  01:19             1 886 privacyLevel.ts
+31/03/2026  01:19             2 333 process.ts
+31/03/2026  23:07    <DIR>          processUserInput
+31/03/2026  01:19             1 572 profilerBase.ts
+31/03/2026  01:19             1 502 promptCategory.ts
+31/03/2026  01:19             5 664 promptEditor.ts
+31/03/2026  01:19             7 011 promptShellExecution.ts
+31/03/2026  01:19            13 545 proxy.ts
+31/03/2026  01:19             5 937 queryContext.ts
+31/03/2026  01:19             3 597 QueryGuard.ts
+31/03/2026  01:19            19 734 queryHelpers.ts
+31/03/2026  01:19             8 894 queryProfiler.ts
+31/03/2026  01:19             3 174 queueProcessor.ts
+31/03/2026  01:19             7 224 readEditContext.ts
+31/03/2026  01:19            12 259 readFileInRange.ts
+31/03/2026  01:19            11 813 releaseNotes.ts
+31/03/2026  01:19             2 278 renderOptions.ts
+31/03/2026  01:19            21 188 ripgrep.ts
+31/03/2026  23:07    <DIR>          sandbox
+31/03/2026  01:19             4 003 sanitization.ts
+31/03/2026  01:19             3 709 screenshotClipboard.ts
+31/03/2026  01:19             4 077 sdkEventQueue.ts
+31/03/2026  23:07    <DIR>          secureStorage
+31/03/2026  01:19             1 167 semanticBoolean.ts
+31/03/2026  01:19             1 486 semanticNumber.ts
+31/03/2026  01:19             1 713 semver.ts
+31/03/2026  01:19             1 641 sequential.ts
+31/03/2026  01:19             4 081 sessionActivity.ts
+31/03/2026  01:19             5 053 sessionEnvironment.ts
+31/03/2026  01:19               590 sessionEnvVars.ts
+31/03/2026  01:19             8 138 sessionFileAccessHooks.ts
+31/03/2026  01:19             4 737 sessionIngressAuth.ts
+31/03/2026  01:19            20 406 sessionRestore.ts
+31/03/2026  01:19             8 151 sessionStart.ts
+31/03/2026  01:19             5 309 sessionState.ts
+31/03/2026  01:19           180 620 sessionStorage.ts
+31/03/2026  01:19            25 448 sessionStoragePortable.ts
+31/03/2026  01:19             4 757 sessionTitle.ts
+31/03/2026  01:19             1 672 sessionUrl.ts
+31/03/2026  01:19             1 036 set.ts
+31/03/2026  23:07    <DIR>          settings
+31/03/2026  23:07    <DIR>          shell
+31/03/2026  01:19            16 929 Shell.ts
+31/03/2026  01:19            14 138 ShellCommand.ts
+31/03/2026  01:19             4 737 shellConfig.ts
+31/03/2026  01:19             8 184 sideQuery.ts
+31/03/2026  01:19             6 133 sideQuestion.ts
+31/03/2026  01:19             1 447 signal.ts
+31/03/2026  01:19               608 sinks.ts
+31/03/2026  23:07    <DIR>          skills
+31/03/2026  01:19             1 437 slashCommandParsing.ts
+31/03/2026  01:19             2 882 sleep.ts
+31/03/2026  01:19             3 343 sliceAnsi.ts
+31/03/2026  01:19             9 055 slowOperations.ts
+31/03/2026  01:19               803 standaloneAgent.ts
+31/03/2026  01:19             6 079 startupProfiler.ts
+31/03/2026  01:19            12 236 staticRender.tsx
+31/03/2026  01:19            33 790 stats.ts
+31/03/2026  01:19            13 891 statsCache.ts
+31/03/2026  01:19            48 635 status.tsx
+31/03/2026  01:19            30 638 statusNoticeDefinitions.tsx
+31/03/2026  01:19               673 statusNoticeHelpers.ts
+31/03/2026  01:19             1 926 stream.ts
+31/03/2026  01:19             3 987 streamJsonStdoutGuard.ts
+31/03/2026  01:19             5 941 streamlinedTransform.ts
+31/03/2026  01:19             6 595 stringUtils.ts
+31/03/2026  01:19             3 975 subprocessEnv.ts
+31/03/2026  23:07    <DIR>          suggestions
+31/03/2026  23:07    <DIR>          swarm
+31/03/2026  01:19             2 125 systemDirectories.ts
+31/03/2026  01:19             4 867 systemPrompt.ts
+31/03/2026  01:19               382 systemPromptType.ts
+31/03/2026  01:19             4 231 systemTheme.ts
+31/03/2026  01:19             1 573 taggedId.ts
+31/03/2026  23:07    <DIR>          task
+31/03/2026  01:19            26 354 tasks.ts
+31/03/2026  01:19             2 323 teamDiscovery.ts
+31/03/2026  01:19             9 206 teammate.ts
+31/03/2026  01:19             3 161 teammateContext.ts
+31/03/2026  01:19            33 420 teammateMailbox.ts
+31/03/2026  01:19             2 471 teamMemoryOps.ts
+31/03/2026  23:07    <DIR>          telemetry
+31/03/2026  01:19             2 095 telemetryAttributes.ts
+31/03/2026  23:07    <DIR>          teleport
+31/03/2026  01:19           175 779 teleport.tsx
+31/03/2026  01:19             1 170 tempfile.ts
+31/03/2026  01:19             4 372 terminal.ts
+31/03/2026  01:19             6 014 terminalPanel.ts
+31/03/2026  01:19             4 540 textHighlighting.ts
+31/03/2026  01:19            26 830 theme.ts
+31/03/2026  01:19             5 514 thinking.ts
+31/03/2026  01:19             1 410 timeouts.ts
+31/03/2026  01:19            13 693 tmuxSocket.ts
+31/03/2026  23:07    <DIR>          todo
+31/03/2026  01:19             2 675 tokenBudget.ts
+31/03/2026  01:19             9 606 tokens.ts
+31/03/2026  01:19             4 012 toolErrors.ts
+31/03/2026  01:19             3 136 toolPool.ts
+31/03/2026  01:19            38 384 toolResultStorage.ts
+31/03/2026  01:19             1 061 toolSchemaCache.ts
+31/03/2026  01:19            26 606 toolSearch.ts
+31/03/2026  01:19             8 039 transcriptSearch.ts
+31/03/2026  01:19             5 033 treeify.ts
+31/03/2026  01:19             5 719 truncate.ts
+31/03/2026  23:07    <DIR>          ultraplan
+31/03/2026  01:19             1 254 unaryLogging.ts
+31/03/2026  01:19             3 681 undercover.ts
+31/03/2026  01:19             5 714 user.ts
+31/03/2026  01:19               281 userAgent.ts
+31/03/2026  01:19               929 userPromptKeywords.ts
+31/03/2026  01:19               888 uuid.ts
+31/03/2026  01:19             4 486 warningHandler.ts
+31/03/2026  01:19             2 392 which.ts
+31/03/2026  01:19             6 008 windowsPaths.ts
+31/03/2026  01:19               444 withResolvers.ts
+31/03/2026  01:19            10 960 words.ts
+31/03/2026  01:19             2 337 workloadContext.ts
+31/03/2026  01:19            49 995 worktree.ts
+31/03/2026  01:19               415 worktreeModeEnabled.ts
+31/03/2026  01:19             1 876 xdg.ts
+31/03/2026  01:19               622 xml.ts
+31/03/2026  01:19               525 yaml.ts
+31/03/2026  01:19               761 zodToJsonSchema.ts
+             298 fichier(s)        3 409 686 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\background
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          remote
+               0 fichier(s)                0 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\background\remote
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 336 preconditions.ts
+31/03/2026  01:19             3 050 remoteSession.ts
+               2 fichier(s)           10 386 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\bash
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19           112 054 ast.ts
+31/03/2026  01:19           130 810 bashParser.ts
+31/03/2026  01:19            10 708 bashPipeCommand.ts
+31/03/2026  01:19            51 078 commands.ts
+31/03/2026  01:19            31 458 heredoc.ts
+31/03/2026  01:19             9 221 ParsedCommand.ts
+31/03/2026  01:19             6 652 parser.ts
+31/03/2026  01:19             6 222 prefix.ts
+31/03/2026  01:19             1 433 registry.ts
+31/03/2026  01:19             7 874 shellCompletion.ts
+31/03/2026  01:19             1 028 shellPrefix.ts
+31/03/2026  01:19            10 824 shellQuote.ts
+31/03/2026  01:19             4 718 shellQuoting.ts
+31/03/2026  01:19            21 780 ShellSnapshot.ts
+31/03/2026  23:07    <DIR>          specs
+31/03/2026  01:19            17 594 treeSitterAnalysis.ts
+              15 fichier(s)          423 454 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\bash\specs
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               313 alias.ts
+31/03/2026  01:19               380 index.ts
+31/03/2026  01:19               274 nohup.ts
+31/03/2026  01:19             2 670 pyright.ts
+31/03/2026  01:19               315 sleep.ts
+31/03/2026  01:19               654 srun.ts
+31/03/2026  01:19               244 time.ts
+31/03/2026  01:19               426 timeout.ts
+               8 fichier(s)            5 276 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\claudeInChrome
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            13 876 chromeNativeHost.ts
+31/03/2026  01:19            14 489 common.ts
+31/03/2026  01:19            11 104 mcpServer.ts
+31/03/2026  01:19             5 605 prompt.ts
+31/03/2026  01:19            13 011 setup.ts
+31/03/2026  01:19             6 767 setupPortable.ts
+31/03/2026  01:19            33 862 toolRendering.tsx
+               7 fichier(s)           98 714 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\computerUse
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             6 575 appNames.ts
+31/03/2026  01:19             3 298 cleanup.ts
+31/03/2026  01:19             2 617 common.ts
+31/03/2026  01:19             7 135 computerUseLock.ts
+31/03/2026  01:19             2 821 drainRunLoop.ts
+31/03/2026  01:19             1 965 escHotkey.ts
+31/03/2026  01:19            23 812 executor.ts
+31/03/2026  01:19             2 563 gates.ts
+31/03/2026  01:19             2 771 hostAdapter.ts
+31/03/2026  01:19             1 190 inputLoader.ts
+31/03/2026  01:19             4 123 mcpServer.ts
+31/03/2026  01:19             2 020 setup.ts
+31/03/2026  01:19               925 swiftLoader.ts
+31/03/2026  01:19            17 706 toolRendering.tsx
+31/03/2026  01:19            49 436 wrapper.tsx
+              15 fichier(s)          128 957 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\deepLink
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 694 banner.ts
+31/03/2026  01:19             5 715 parseDeepLink.ts
+31/03/2026  01:19             4 943 protocolHandler.ts
+31/03/2026  01:19            11 858 registerProtocol.ts
+31/03/2026  01:19            17 786 terminalLauncher.ts
+31/03/2026  01:19             1 897 terminalPreference.ts
+               6 fichier(s)           46 893 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\dxt
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 599 helpers.ts
+31/03/2026  01:19             7 704 zip.ts
+               2 fichier(s)           10 303 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\filePersistence
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             7 763 filePersistence.ts
+31/03/2026  01:19             3 682 outputsScanner.ts
+               2 fichier(s)           11 445 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\git
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             6 645 gitConfigParser.ts
+31/03/2026  01:19            22 340 gitFilesystem.ts
+31/03/2026  01:19             3 200 gitignore.ts
+               3 fichier(s)           32 185 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\github
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               942 ghAuthStatus.ts
+               1 fichier(s)              942 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\hooks
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 383 apiQueryHookHelper.ts
+31/03/2026  01:19             8 913 AsyncHookRegistry.ts
+31/03/2026  01:19            12 485 execAgentHook.ts
+31/03/2026  01:19             8 871 execHttpHook.ts
+31/03/2026  01:19             6 822 execPromptHook.ts
+31/03/2026  01:19             5 309 fileChangedWatcher.ts
+31/03/2026  01:19             4 492 hookEvents.ts
+31/03/2026  01:19             2 521 hookHelpers.ts
+31/03/2026  01:19            17 497 hooksConfigManager.ts
+31/03/2026  01:19             5 064 hooksConfigSnapshot.ts
+31/03/2026  01:19             8 506 hooksSettings.ts
+31/03/2026  01:19             1 993 postSamplingHooks.ts
+31/03/2026  01:19             2 277 registerFrontmatterHooks.ts
+31/03/2026  01:19             2 059 registerSkillHooks.ts
+31/03/2026  01:19            12 132 sessionHooks.ts
+31/03/2026  01:19             8 362 skillImprovement.ts
+31/03/2026  01:19             8 732 ssrfGuard.ts
+              17 fichier(s)          120 418 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\mcp
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 322 dateTimeParser.ts
+31/03/2026  01:19             9 384 elicitationValidation.ts
+               2 fichier(s)           13 706 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\memory
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               264 types.ts
+31/03/2026  01:19               307 versions.ts
+               2 fichier(s)              571 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\messages
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             9 031 mappers.ts
+31/03/2026  01:19             3 747 systemInit.ts
+               2 fichier(s)           12 778 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\model
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             5 578 agent.ts
+31/03/2026  01:19               793 aliases.ts
+31/03/2026  01:19             1 798 antModels.ts
+31/03/2026  01:19             9 196 bedrock.ts
+31/03/2026  01:19             2 215 check1mAccess.ts
+31/03/2026  01:19             4 286 configs.ts
+31/03/2026  01:19             1 284 contextWindowUpgradeCheck.ts
+31/03/2026  01:19             2 534 deprecation.ts
+31/03/2026  01:19            21 409 model.ts
+31/03/2026  01:19             6 030 modelAllowlist.ts
+31/03/2026  01:19             4 099 modelCapabilities.ts
+31/03/2026  01:19            18 338 modelOptions.ts
+31/03/2026  01:19             5 233 modelStrings.ts
+31/03/2026  01:19             1 537 modelSupportOverrides.ts
+31/03/2026  01:19             1 340 providers.ts
+31/03/2026  01:19             4 633 validateModel.ts
+              16 fichier(s)           90 303 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\nativeInstaller
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            15 191 download.ts
+31/03/2026  01:19               456 index.ts
+31/03/2026  01:19            54 752 installer.ts
+31/03/2026  01:19             8 963 packageManagers.ts
+31/03/2026  01:19            11 934 pidLock.ts
+               5 fichier(s)           91 296 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\permissions
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 095 autoModeState.ts
+31/03/2026  01:19             1 444 bashClassifier.ts
+31/03/2026  01:19             4 839 bypassPermissionsKillswitch.ts
+31/03/2026  01:19             4 585 classifierDecision.ts
+31/03/2026  01:19             1 174 classifierShared.ts
+31/03/2026  01:19             2 476 dangerousPatterns.ts
+31/03/2026  01:19             1 101 denialTracking.ts
+31/03/2026  01:19            62 254 filesystem.ts
+31/03/2026  01:19             3 301 getNextPermissionMode.ts
+31/03/2026  01:19            16 249 pathValidation.ts
+31/03/2026  01:19             7 606 permissionExplainer.ts
+31/03/2026  01:19             3 489 PermissionMode.ts
+31/03/2026  01:19             4 108 PermissionPromptToolResultSchema.ts
+31/03/2026  01:19               874 PermissionResult.ts
+31/03/2026  01:19             1 176 PermissionRule.ts
+31/03/2026  01:19             7 274 permissionRuleParser.ts
+31/03/2026  01:19            52 190 permissions.ts
+31/03/2026  01:19            53 439 permissionSetup.ts
+31/03/2026  01:19             8 743 permissionsLoader.ts
+31/03/2026  01:19            11 912 PermissionUpdate.ts
+31/03/2026  01:19             2 402 PermissionUpdateSchema.ts
+31/03/2026  01:19             8 050 shadowedRuleDetection.ts
+31/03/2026  01:19             6 409 shellRuleMatching.ts
+31/03/2026  01:19            52 160 yoloClassifier.ts
+              24 fichier(s)          318 350 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\plugins
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 320 addDirPluginSettings.ts
+31/03/2026  01:19             6 652 cacheUtils.ts
+31/03/2026  01:19            11 673 dependencyResolver.ts
+31/03/2026  01:19             4 922 fetchTelemetry.ts
+31/03/2026  01:19             2 273 gitAvailability.ts
+31/03/2026  01:19             6 775 headlessPluginInstall.ts
+31/03/2026  01:19             5 431 hintRecommendation.ts
+31/03/2026  01:19             8 315 installCounts.ts
+31/03/2026  01:19            41 410 installedPluginsManager.ts
+31/03/2026  01:19            12 485 loadPluginAgents.ts
+31/03/2026  01:19            30 541 loadPluginCommands.ts
+31/03/2026  01:19            10 066 loadPluginHooks.ts
+31/03/2026  01:19             5 672 loadPluginOutputStyles.ts
+31/03/2026  01:19            12 414 lspPluginIntegration.ts
+31/03/2026  01:19            10 695 lspRecommendation.ts
+31/03/2026  01:19               877 managedPlugins.ts
+31/03/2026  01:19            18 217 marketplaceHelpers.ts
+31/03/2026  01:19            93 274 marketplaceManager.ts
+31/03/2026  01:19            31 289 mcpbHandler.ts
+31/03/2026  01:19            20 113 mcpPluginIntegration.ts
+31/03/2026  01:19               836 officialMarketplace.ts
+31/03/2026  01:19             9 338 officialMarketplaceGcs.ts
+31/03/2026  01:19            15 192 officialMarketplaceStartupCheck.ts
+31/03/2026  01:19             3 980 orphanedPluginFilter.ts
+31/03/2026  01:19             6 075 parseMarketplaceInput.ts
+31/03/2026  01:19             9 597 performStartupChecks.tsx
+31/03/2026  01:19             9 473 pluginAutoupdate.ts
+31/03/2026  01:19             4 361 pluginBlocklist.ts
+31/03/2026  01:19             6 669 pluginDirectories.ts
+31/03/2026  01:19             5 621 pluginFlagging.ts
+31/03/2026  01:19             3 928 pluginIdentifier.ts
+31/03/2026  01:19            20 629 pluginInstallationHelpers.ts
+31/03/2026  01:19           110 261 pluginLoader.ts
+31/03/2026  01:19            15 302 pluginOptionsStorage.ts
+31/03/2026  01:19               827 pluginPolicy.ts
+31/03/2026  01:19            11 096 pluginStartupCheck.ts
+31/03/2026  01:19             5 340 pluginVersioning.ts
+31/03/2026  01:19             8 273 reconciler.ts
+31/03/2026  01:19             8 537 refresh.ts
+31/03/2026  01:19            58 914 schemas.ts
+31/03/2026  01:19            28 366 validatePlugin.ts
+31/03/2026  01:19             2 222 walkPluginMarkdown.ts
+31/03/2026  01:19            13 163 zipCache.ts
+31/03/2026  01:19             5 310 zipCacheAdapters.ts
+              44 fichier(s)          698 724 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\powershell
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             6 155 dangerousCmdlets.ts
+31/03/2026  01:19            66 647 parser.ts
+31/03/2026  01:19            12 277 staticPrefix.ts
+               3 fichier(s)           85 079 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\processUserInput
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            22 279 processBashCommand.tsx
+31/03/2026  01:19           144 807 processSlashCommand.tsx
+31/03/2026  01:19             3 272 processTextPrompt.ts
+31/03/2026  01:19            19 507 processUserInput.ts
+               4 fichier(s)          189 865 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\sandbox
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            35 710 sandbox-adapter.ts
+31/03/2026  01:19               389 sandbox-ui-utils.ts
+               2 fichier(s)           36 099 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\secureStorage
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 362 fallbackStorage.ts
+31/03/2026  01:19               559 index.ts
+31/03/2026  01:19             4 755 keychainPrefetch.ts
+31/03/2026  01:19             4 797 macOsKeychainHelpers.ts
+31/03/2026  01:19             8 271 macOsKeychainStorage.ts
+31/03/2026  01:19             2 430 plainTextStorage.ts
+               6 fichier(s)           23 174 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\settings
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 257 allErrors.ts
+31/03/2026  01:19             3 656 applySettingsChange.ts
+31/03/2026  01:19            16 384 changeDetector.ts
+31/03/2026  01:19             5 627 constants.ts
+31/03/2026  01:19             1 380 internalWrites.ts
+31/03/2026  01:19             1 095 managedPath.ts
+31/03/2026  23:07    <DIR>          mdm
+31/03/2026  01:19             8 657 permissionValidation.ts
+31/03/2026  01:19             2 405 pluginOnlyPolicy.ts
+31/03/2026  01:19               317 schemaOutput.ts
+31/03/2026  01:19            32 185 settings.ts
+31/03/2026  01:19             2 416 settingsCache.ts
+31/03/2026  01:19             3 100 toolValidationConfig.ts
+31/03/2026  01:19            42 784 types.ts
+31/03/2026  01:19             1 695 validateEditTool.ts
+31/03/2026  01:19             7 951 validation.ts
+31/03/2026  01:19             5 464 validationTips.ts
+              16 fichier(s)          136 373 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\settings\mdm
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             2 617 constants.ts
+31/03/2026  01:19             4 183 rawRead.ts
+31/03/2026  01:19            10 716 settings.ts
+               3 fichier(s)           17 516 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\shell
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            11 002 bashProvider.ts
+31/03/2026  01:19               416 outputLimits.ts
+31/03/2026  01:19             3 714 powershellDetection.ts
+31/03/2026  01:19             5 771 powershellProvider.ts
+31/03/2026  01:19            11 216 prefix.ts
+31/03/2026  01:19            68 294 readOnlyCommandValidation.ts
+31/03/2026  01:19               496 resolveDefaultShell.ts
+31/03/2026  01:19               955 shellProvider.ts
+31/03/2026  01:19             1 036 shellToolUtils.ts
+31/03/2026  01:19             7 905 specPrefix.ts
+              10 fichier(s)          110 805 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\skills
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            10 033 skillChangeDetector.ts
+               1 fichier(s)           10 033 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\suggestions
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            18 558 commandSuggestions.ts
+31/03/2026  01:19             7 098 directoryCompletion.ts
+31/03/2026  01:19             3 456 shellHistoryCompletion.ts
+31/03/2026  01:19             1 948 skillUsageTracking.ts
+31/03/2026  01:19             6 391 slackChannelSuggestions.ts
+               5 fichier(s)           37 451 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\swarm
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  23:07    <DIR>          backends
+31/03/2026  01:19             1 334 constants.ts
+31/03/2026  01:19            53 565 inProcessRunner.ts
+31/03/2026  01:19            42 721 It2SetupPrompt.tsx
+31/03/2026  01:19             1 732 leaderPermissionBridge.ts
+31/03/2026  01:19            26 473 permissionSync.ts
+31/03/2026  01:19             3 401 reconnection.ts
+31/03/2026  01:19            10 241 spawnInProcess.ts
+31/03/2026  01:19             5 202 spawnUtils.ts
+31/03/2026  01:19            21 385 teamHelpers.ts
+31/03/2026  01:19             4 280 teammateInit.ts
+31/03/2026  01:19             3 261 teammateLayoutManager.ts
+31/03/2026  01:19               467 teammateModel.ts
+31/03/2026  01:19               771 teammatePromptAddendum.ts
+              13 fichier(s)          174 833 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\swarm\backends
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             4 495 detection.ts
+31/03/2026  01:19            10 468 InProcessBackend.ts
+31/03/2026  01:19             6 921 it2Setup.ts
+31/03/2026  01:19            12 927 ITermBackend.ts
+31/03/2026  01:19            10 914 PaneBackendExecutor.ts
+31/03/2026  01:19            14 791 registry.ts
+31/03/2026  01:19             2 863 teammateModeSnapshot.ts
+31/03/2026  01:19            21 491 TmuxBackend.ts
+31/03/2026  01:19             9 906 types.ts
+               9 fichier(s)           94 776 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\task
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            13 568 diskOutput.ts
+31/03/2026  01:19             9 869 framework.ts
+31/03/2026  01:19             1 188 outputFormatting.ts
+31/03/2026  01:19             1 153 sdkProgress.ts
+31/03/2026  01:19            12 474 TaskOutput.ts
+               5 fichier(s)           38 252 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\telemetry
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            15 843 betaSessionTracing.ts
+31/03/2026  01:19             7 806 bigqueryExporter.ts
+31/03/2026  01:19             2 287 events.ts
+31/03/2026  01:19            26 741 instrumentation.ts
+31/03/2026  01:19               742 logger.ts
+31/03/2026  01:19            29 792 perfettoTracing.ts
+31/03/2026  01:19            10 491 pluginTelemetry.ts
+31/03/2026  01:19            27 991 sessionTracing.ts
+31/03/2026  01:19             1 425 skillLoadedEvent.ts
+               9 fichier(s)          123 118 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\teleport
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            13 327 api.ts
+31/03/2026  01:19             3 471 environments.ts
+31/03/2026  01:19             2 695 environmentSelection.ts
+31/03/2026  01:19             9 820 gitBundle.ts
+               4 fichier(s)           29 313 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\todo
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19               602 types.ts
+               1 fichier(s)              602 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\utils\ultraplan
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19            12 987 ccrSession.ts
+31/03/2026  01:19             4 691 keyword.ts
+               2 fichier(s)           17 678 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\vim
+
+31/03/2026  23:07    <DIR>          .
+31/03/2026  23:07    <DIR>          ..
+31/03/2026  01:19             1 902 motions.ts
+31/03/2026  01:19            15 966 operators.ts
+31/03/2026  01:19             5 029 textObjects.ts
+31/03/2026  01:19            12 381 transitions.ts
+31/03/2026  01:19             6 332 types.ts
+               5 fichier(s)           41 610 octets
+
+ Répertoire de C:\Users\caurie\Desktop\src\voice
+
+31/03/2026  23:08    <DIR>          .
+31/03/2026  23:08    <DIR>          ..
+31/03/2026  01:19             2 332 voiceModeEnabled.ts
+               1 fichier(s)            2 332 octets
+
+     Total des fichiers listés :
+            1902 fichier(s)       30 382 832 octets
+             902 Rép(s)  48 774 164 480 octets libres
+
+C:\Users\caurie\Desktop\src>
