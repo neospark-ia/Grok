@@ -4,9 +4,10 @@
 
 Salut tout le monde ! 
 
-Premier jour du Lab X et on sent déjà la bonne énergie : le groupe démarre fort avec une avalanche de présentations sincères, des builders qui partagent leurs stacks sans filtre et des débats concrets sur OpenClaw vs Hermes, local vs cloud.  
+Premier jour du Journal - Le Lab X et on sent déjà la bonne énergie : le groupe démarre fort avec une avalanche de présentations sincères, des builders qui partagent leurs stacks sans filtre et des débats concrets sur OpenClaw vs Hermes, local vs cloud.  
 
 Le fil rouge ? On est tous en train de se dire « ok, on est au même endroit, maintenant on avance ensemble ».  
+
 Mehdi Builds, Ben Hld, Mickaël Ahouansou, Colibri libre (Alex), Supersocks Lab X et les autres posent déjà le décor : on veut du concret, de la sécurité, de l’efficacité, et on n’hésite pas à dire quand un outil nous a déçus ou quand un autre nous a bluffés.  
 
 Il y a du bruit (les emojis animés, X down, les to-do lists qui s’allongent), mais surtout une vraie bienveillance et une envie de s’entraider.  
